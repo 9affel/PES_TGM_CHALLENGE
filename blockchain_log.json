@@ -1,0 +1,4331 @@
+[
+  {
+    "Meter_ID": "GENESIS",
+    "Hour": 0,
+    "Usage_KWh": 0.0,
+    "Status": "Genesis",
+    "Prev_Hash": "0",
+    "Hash": "c2e89ac1afee6478f2306cc3e9480306072be4945ac050702c14661f5be2eb7d",
+    "Timestamp": "2025-09-03T23:21:58.598261"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 0,
+    "Usage_KWh": 9.812636024296726,
+    "Status": "Normal",
+    "Prev_Hash": "c2e89ac1afee6478f2306cc3e9480306072be4945ac050702c14661f5be2eb7d",
+    "Hash": "8b03187ec8890968375779cc9042f4057255657b5058afee9795ad4808894b84",
+    "Timestamp": "2025-09-03T23:21:58.616827"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 1,
+    "Usage_KWh": 8.220392067269696,
+    "Status": "Normal",
+    "Prev_Hash": "8b03187ec8890968375779cc9042f4057255657b5058afee9795ad4808894b84",
+    "Hash": "e5d7840d2dbe391b3467ecaa1a935b0d8462c82a80b6c493a5f254065b004a65",
+    "Timestamp": "2025-09-03T23:21:58.616827"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 2,
+    "Usage_KWh": 5.930677194169184,
+    "Status": "Normal",
+    "Prev_Hash": "e5d7840d2dbe391b3467ecaa1a935b0d8462c82a80b6c493a5f254065b004a65",
+    "Hash": "7320f8fec848da761160685a03fef1571edb8e4d2b1434527c54369ebe4b8205",
+    "Timestamp": "2025-09-03T23:21:58.616827"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 3,
+    "Usage_KWh": 1.11002490950111,
+    "Status": "Normal",
+    "Prev_Hash": "7320f8fec848da761160685a03fef1571edb8e4d2b1434527c54369ebe4b8205",
+    "Hash": "4e8c0ae9b89d30794f45127ddca6d8fee2cc4508854343b704cf7d508e361183",
+    "Timestamp": "2025-09-03T23:21:58.617823"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 4,
+    "Usage_KWh": 8.127255425466636,
+    "Status": "Normal",
+    "Prev_Hash": "4e8c0ae9b89d30794f45127ddca6d8fee2cc4508854343b704cf7d508e361183",
+    "Hash": "3f56aa022cec355fbcbaa6da1eaa5e6961f04fad135f7b4dead65aea334f1db6",
+    "Timestamp": "2025-09-03T23:21:58.618819"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 5,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "3f56aa022cec355fbcbaa6da1eaa5e6961f04fad135f7b4dead65aea334f1db6",
+    "Hash": "59dc31c4e8152c826990e4709cb98abc5a821c21e7425761fd6215de6cb57c87",
+    "Timestamp": "2025-09-03T23:21:58.618819"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 6,
+    "Usage_KWh": 8.11774261276209,
+    "Status": "Normal",
+    "Prev_Hash": "59dc31c4e8152c826990e4709cb98abc5a821c21e7425761fd6215de6cb57c87",
+    "Hash": "58c6cd69871a5f3de8e4a8e4c89eff815dbb6130394884893317fb50d5acffb2",
+    "Timestamp": "2025-09-03T23:21:58.619816"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 7,
+    "Usage_KWh": 4.262526268170564,
+    "Status": "Normal",
+    "Prev_Hash": "58c6cd69871a5f3de8e4a8e4c89eff815dbb6130394884893317fb50d5acffb2",
+    "Hash": "eb3eb42a56129f7c9a8d5cef60187c0c5e0080b233bed5e319aeba90a0984fa6",
+    "Timestamp": "2025-09-03T23:21:58.619816"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 8,
+    "Usage_KWh": 1.8098332851890624,
+    "Status": "Normal",
+    "Prev_Hash": "eb3eb42a56129f7c9a8d5cef60187c0c5e0080b233bed5e319aeba90a0984fa6",
+    "Hash": "3e8708836aaccd5ff53765060e7f490b99698004a119a0e618ea43e80110e1b0",
+    "Timestamp": "2025-09-03T23:21:58.620821"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 9,
+    "Usage_KWh": 9.45019275546622,
+    "Status": "Normal",
+    "Prev_Hash": "3e8708836aaccd5ff53765060e7f490b99698004a119a0e618ea43e80110e1b0",
+    "Hash": "e05a3e29b82956c2d1df5b6e13a045e56fca71fbdbcd743037b7e8d52ffd4b9b",
+    "Timestamp": "2025-09-03T23:21:58.620821"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 10,
+    "Usage_KWh": 8.280115285934876,
+    "Status": "Normal",
+    "Prev_Hash": "e05a3e29b82956c2d1df5b6e13a045e56fca71fbdbcd743037b7e8d52ffd4b9b",
+    "Hash": "cac425879316b54fd21c46542ddae2e537882a3aaaa8f79bc2b388551519f794",
+    "Timestamp": "2025-09-03T23:21:58.620821"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 11,
+    "Usage_KWh": 4.464233387171918,
+    "Status": "Normal",
+    "Prev_Hash": "cac425879316b54fd21c46542ddae2e537882a3aaaa8f79bc2b388551519f794",
+    "Hash": "31ca36f65ad731f5a0ee9ffd3aeedd52019c10aeae507474acff651811cbbd63",
+    "Timestamp": "2025-09-03T23:21:58.621820"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 12,
+    "Usage_KWh": 8.581475516530329,
+    "Status": "Normal",
+    "Prev_Hash": "31ca36f65ad731f5a0ee9ffd3aeedd52019c10aeae507474acff651811cbbd63",
+    "Hash": "2bdb9497297f6c8c2025ffd80bfa55fa4337ed87f2e9b2ce5072b4c22e5f691c",
+    "Timestamp": "2025-09-03T23:21:58.621820"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 13,
+    "Usage_KWh": 8.48195823223265,
+    "Status": "Normal",
+    "Prev_Hash": "2bdb9497297f6c8c2025ffd80bfa55fa4337ed87f2e9b2ce5072b4c22e5f691c",
+    "Hash": "6a26a15b5f0909e9049e37040e2054dd0685b9f65f2c466f6c258deeb3ad286f",
+    "Timestamp": "2025-09-03T23:21:58.622815"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 14,
+    "Usage_KWh": 5.275998759656328,
+    "Status": "Normal",
+    "Prev_Hash": "6a26a15b5f0909e9049e37040e2054dd0685b9f65f2c466f6c258deeb3ad286f",
+    "Hash": "ca3cd284518bf9f6d5fa7f3ff5346664c4e1ca493a517381685aa9f9482ebc67",
+    "Timestamp": "2025-09-03T23:21:58.623815"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 15,
+    "Usage_KWh": 9.160966744794038,
+    "Status": "Normal",
+    "Prev_Hash": "ca3cd284518bf9f6d5fa7f3ff5346664c4e1ca493a517381685aa9f9482ebc67",
+    "Hash": "df61f5b36e708975fae335d286e0a54d51142e6da354ae3a1b727921851eb324",
+    "Timestamp": "2025-09-03T23:21:58.623815"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 16,
+    "Usage_KWh": 1.2993895268081124,
+    "Status": "Normal",
+    "Prev_Hash": "df61f5b36e708975fae335d286e0a54d51142e6da354ae3a1b727921851eb324",
+    "Hash": "b7fc9da0eeef7996a074d65337d3fe7206bdc1be59e5a1e3faa8266de610fdcb",
+    "Timestamp": "2025-09-03T23:21:58.623815"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 17,
+    "Usage_KWh": 1.6864956258565065,
+    "Status": "Normal",
+    "Prev_Hash": "b7fc9da0eeef7996a074d65337d3fe7206bdc1be59e5a1e3faa8266de610fdcb",
+    "Hash": "6d85e432c618e16624cf2e920ca9a20ce8287833515e550294b18b3b8070a6e9",
+    "Timestamp": "2025-09-03T23:21:58.624815"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 18,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "6d85e432c618e16624cf2e920ca9a20ce8287833515e550294b18b3b8070a6e9",
+    "Hash": "01782b6abcf5497fd4520f5511852cba358b01d0ece5d18b5d7a8776bfd212ab",
+    "Timestamp": "2025-09-03T23:21:58.624815"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 19,
+    "Usage_KWh": 3.560078634650051,
+    "Status": "Normal",
+    "Prev_Hash": "01782b6abcf5497fd4520f5511852cba358b01d0ece5d18b5d7a8776bfd212ab",
+    "Hash": "f4062b8485244719e2c53cd99f0e9a4be304a9ce0505d91532bd921579ef0aad",
+    "Timestamp": "2025-09-03T23:21:58.624815"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 20,
+    "Usage_KWh": 5.0492467594418615,
+    "Status": "Normal",
+    "Prev_Hash": "f4062b8485244719e2c53cd99f0e9a4be304a9ce0505d91532bd921579ef0aad",
+    "Hash": "cb9bfd81203562c4511518c9158ca015f954046ec203d552f9d45ff00a6c2bc2",
+    "Timestamp": "2025-09-03T23:21:58.625822"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 21,
+    "Usage_KWh": 9.837107913572265,
+    "Status": "Normal",
+    "Prev_Hash": "cb9bfd81203562c4511518c9158ca015f954046ec203d552f9d45ff00a6c2bc2",
+    "Hash": "fc16505bcb0cb2d5f8fd40fc5f5a1ff4e729696ed55e6c080cb2c30fca7f71d4",
+    "Timestamp": "2025-09-03T23:21:58.625822"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 22,
+    "Usage_KWh": 4.170136650320283,
+    "Status": "Normal",
+    "Prev_Hash": "fc16505bcb0cb2d5f8fd40fc5f5a1ff4e729696ed55e6c080cb2c30fca7f71d4",
+    "Hash": "49ca1cff7a375818ab2dfd7f6fce998caaf750d6cd1a11bdb2d16b6a524cf995",
+    "Timestamp": "2025-09-03T23:21:58.625822"
+  },
+  {
+    "Meter_ID": "House_1",
+    "Hour": 23,
+    "Usage_KWh": 1.988608912018439,
+    "Status": "Normal",
+    "Prev_Hash": "49ca1cff7a375818ab2dfd7f6fce998caaf750d6cd1a11bdb2d16b6a524cf995",
+    "Hash": "cd77a4cc7cdcdcf6ff478811615deaa436c4249bae46726b41ab9d70b71700b5",
+    "Timestamp": "2025-09-03T23:21:58.626816"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 0,
+    "Usage_KWh": 2.85891763649432,
+    "Status": "Normal",
+    "Prev_Hash": "cd77a4cc7cdcdcf6ff478811615deaa436c4249bae46726b41ab9d70b71700b5",
+    "Hash": "5d19c1e43f8a87703a5a54466eea0d599486e12196855e461de0c38122280570",
+    "Timestamp": "2025-09-03T23:21:58.626816"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 1,
+    "Usage_KWh": 1.5176062748959356,
+    "Status": "Normal",
+    "Prev_Hash": "5d19c1e43f8a87703a5a54466eea0d599486e12196855e461de0c38122280570",
+    "Hash": "d5e9cb495c81e526033fb80f4e0d3b663e904c8be7ea350cc039c9856fe7e4ab",
+    "Timestamp": "2025-09-03T23:21:58.626816"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 2,
+    "Usage_KWh": 2.957314906074422,
+    "Status": "Normal",
+    "Prev_Hash": "d5e9cb495c81e526033fb80f4e0d3b663e904c8be7ea350cc039c9856fe7e4ab",
+    "Hash": "689bb748496d6617217322cb1dd5a1c9e2433fdab0fa3a04e3c77d6372cb9d65",
+    "Timestamp": "2025-09-03T23:21:58.627817"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 3,
+    "Usage_KWh": 6.480806805178059,
+    "Status": "Normal",
+    "Prev_Hash": "689bb748496d6617217322cb1dd5a1c9e2433fdab0fa3a04e3c77d6372cb9d65",
+    "Hash": "db88c204a1ea1627f188018496f173f916330da79462a400a3e62c9ffed307e8",
+    "Timestamp": "2025-09-03T23:21:58.627817"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 4,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "db88c204a1ea1627f188018496f173f916330da79462a400a3e62c9ffed307e8",
+    "Hash": "df225530246866f9a19229464c5fa59961d3468627a8005f1de2c8e126c1fa16",
+    "Timestamp": "2025-09-03T23:21:58.627817"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 5,
+    "Usage_KWh": 4.794784711189115,
+    "Status": "Normal",
+    "Prev_Hash": "df225530246866f9a19229464c5fa59961d3468627a8005f1de2c8e126c1fa16",
+    "Hash": "c122dc9b23a54a9acbe93ab42ec2686d8d4437e45c3c0639748cc6c887800bc2",
+    "Timestamp": "2025-09-03T23:21:58.628814"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 6,
+    "Usage_KWh": 2.658901714265199,
+    "Status": "Normal",
+    "Prev_Hash": "c122dc9b23a54a9acbe93ab42ec2686d8d4437e45c3c0639748cc6c887800bc2",
+    "Hash": "90ffba322e9e33450d3f82272694545c3d9ef9e7c6a356cfcebc8a0202b8d25b",
+    "Timestamp": "2025-09-03T23:21:58.629818"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 7,
+    "Usage_KWh": 8.664503379329496,
+    "Status": "Normal",
+    "Prev_Hash": "90ffba322e9e33450d3f82272694545c3d9ef9e7c6a356cfcebc8a0202b8d25b",
+    "Hash": "79d4563b14ecfaaab4bf9aa2560c2205fee4bc37e6ea7e2ea06ea214484d0cb9",
+    "Timestamp": "2025-09-03T23:21:58.631819"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 8,
+    "Usage_KWh": 5.584519267349705,
+    "Status": "Normal",
+    "Prev_Hash": "79d4563b14ecfaaab4bf9aa2560c2205fee4bc37e6ea7e2ea06ea214484d0cb9",
+    "Hash": "dee4bed767884fd001dcaf4c1232369cdcb9ca13f6622b64abaf4a3fb8cd385f",
+    "Timestamp": "2025-09-03T23:21:58.632818"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 9,
+    "Usage_KWh": 5.791081849216335,
+    "Status": "Normal",
+    "Prev_Hash": "dee4bed767884fd001dcaf4c1232369cdcb9ca13f6622b64abaf4a3fb8cd385f",
+    "Hash": "87147367d0fdacfb1257c94652d2bd20fff51e3ec734684eaca14001a9a6cf6e",
+    "Timestamp": "2025-09-03T23:21:58.638823"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 10,
+    "Usage_KWh": 9.628794104383918,
+    "Status": "Normal",
+    "Prev_Hash": "87147367d0fdacfb1257c94652d2bd20fff51e3ec734684eaca14001a9a6cf6e",
+    "Hash": "2a9c7ca0063fc7fff982138fd1a2e2bc92066ed21bdb00ee29a3b9119c035fb6",
+    "Timestamp": "2025-09-03T23:21:58.643823"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 11,
+    "Usage_KWh": 3.5052785531619026,
+    "Status": "Normal",
+    "Prev_Hash": "2a9c7ca0063fc7fff982138fd1a2e2bc92066ed21bdb00ee29a3b9119c035fb6",
+    "Hash": "db83fb47a1b9316f9cf52fb3fbc817d90addd14122dc75c5b996a49d6c68a9f8",
+    "Timestamp": "2025-09-03T23:21:58.647820"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 12,
+    "Usage_KWh": 7.863245563155909,
+    "Status": "Normal",
+    "Prev_Hash": "db83fb47a1b9316f9cf52fb3fbc817d90addd14122dc75c5b996a49d6c68a9f8",
+    "Hash": "f71dd8a868db21db9e725f55375856bd725e42f456e9187deb6f4abd9a5f2a60",
+    "Timestamp": "2025-09-03T23:21:58.652819"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 13,
+    "Usage_KWh": 2.8236404855763126,
+    "Status": "Normal",
+    "Prev_Hash": "f71dd8a868db21db9e725f55375856bd725e42f456e9187deb6f4abd9a5f2a60",
+    "Hash": "cade326540d5ca256a4d14c96fdb9ffb1944753354000bf3df7bf1cb752aa364",
+    "Timestamp": "2025-09-03T23:21:58.654823"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 14,
+    "Usage_KWh": 5.1078968772854,
+    "Status": "Normal",
+    "Prev_Hash": "cade326540d5ca256a4d14c96fdb9ffb1944753354000bf3df7bf1cb752aa364",
+    "Hash": "c60b2a67c6d9d249661d16982170e760aa269540454897c813f3012a9a663d67",
+    "Timestamp": "2025-09-03T23:21:58.655823"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 15,
+    "Usage_KWh": 1.832262104041052,
+    "Status": "Normal",
+    "Prev_Hash": "c60b2a67c6d9d249661d16982170e760aa269540454897c813f3012a9a663d67",
+    "Hash": "aee736371124a2dc6e7e8287eb4ea4d0aab5f6b44d5d64d2a7b017e760ab7387",
+    "Timestamp": "2025-09-03T23:21:58.657822"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 16,
+    "Usage_KWh": 9.41017156732855,
+    "Status": "Normal",
+    "Prev_Hash": "aee736371124a2dc6e7e8287eb4ea4d0aab5f6b44d5d64d2a7b017e760ab7387",
+    "Hash": "2d934a5cb49482b73543a369e5ba1558a4a4abfd798b126654a89d1db2f779cb",
+    "Timestamp": "2025-09-03T23:21:58.657822"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 17,
+    "Usage_KWh": 4.920346262110698,
+    "Status": "Normal",
+    "Prev_Hash": "2d934a5cb49482b73543a369e5ba1558a4a4abfd798b126654a89d1db2f779cb",
+    "Hash": "cd8f3d770482ae20b03c1a63626a56d8f9f7740c5f4869e790e29eaa114f7619",
+    "Timestamp": "2025-09-03T23:21:58.658824"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 18,
+    "Usage_KWh": 6.896408767630783,
+    "Status": "Normal",
+    "Prev_Hash": "cd8f3d770482ae20b03c1a63626a56d8f9f7740c5f4869e790e29eaa114f7619",
+    "Hash": "907c82ed7bfada4b8a7be835139cb4abec610f647af5820d061955d28e9ed182",
+    "Timestamp": "2025-09-03T23:21:58.661537"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 19,
+    "Usage_KWh": 7.104770413993926,
+    "Status": "Normal",
+    "Prev_Hash": "907c82ed7bfada4b8a7be835139cb4abec610f647af5820d061955d28e9ed182",
+    "Hash": "f866e2922cad2fae8aef751f9ebd6b7a8f6b331d8305a6ca7d9a0251eb9d279b",
+    "Timestamp": "2025-09-03T23:21:58.662538"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 20,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "f866e2922cad2fae8aef751f9ebd6b7a8f6b331d8305a6ca7d9a0251eb9d279b",
+    "Hash": "6a925dde276437ab72e98516279ef81b9ea2b8e55ddfa25bcd2de17c7eecf402",
+    "Timestamp": "2025-09-03T23:21:58.664539"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 21,
+    "Usage_KWh": 2.716751961144198,
+    "Status": "Normal",
+    "Prev_Hash": "6a925dde276437ab72e98516279ef81b9ea2b8e55ddfa25bcd2de17c7eecf402",
+    "Hash": "64c676e07d0f3e9c481c3e94a0c51772c63e17635772d9c521f05ddac9b41d3b",
+    "Timestamp": "2025-09-03T23:21:58.666535"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 22,
+    "Usage_KWh": 7.54151208945618,
+    "Status": "Normal",
+    "Prev_Hash": "64c676e07d0f3e9c481c3e94a0c51772c63e17635772d9c521f05ddac9b41d3b",
+    "Hash": "47b82d71e2a89bb87000c80efe02cd8bf26af49d866a45137cb61e71c431fdad",
+    "Timestamp": "2025-09-03T23:21:58.667535"
+  },
+  {
+    "Meter_ID": "House_2",
+    "Hour": 23,
+    "Usage_KWh": 8.817136348037227,
+    "Status": "Normal",
+    "Prev_Hash": "47b82d71e2a89bb87000c80efe02cd8bf26af49d866a45137cb61e71c431fdad",
+    "Hash": "6510a5fbd20a6cd3a6af0c5ae2b12bc4da5734e0d403f84195285c7db3efbd4f",
+    "Timestamp": "2025-09-03T23:21:58.668531"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 0,
+    "Usage_KWh": 1.537753528311189,
+    "Status": "Normal",
+    "Prev_Hash": "6510a5fbd20a6cd3a6af0c5ae2b12bc4da5734e0d403f84195285c7db3efbd4f",
+    "Hash": "4c4741ffcd1f29b76a6f52675fbf4bdb2c15ec933b0020da499b0a9e9d0061c8",
+    "Timestamp": "2025-09-03T23:21:58.669532"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 1,
+    "Usage_KWh": 1.2216141931595206,
+    "Status": "Normal",
+    "Prev_Hash": "4c4741ffcd1f29b76a6f52675fbf4bdb2c15ec933b0020da499b0a9e9d0061c8",
+    "Hash": "56fc33868ab899546986e24af8d5eb1a4f8dd2978acdac7fde4d58a18031a134",
+    "Timestamp": "2025-09-03T23:21:58.669532"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 2,
+    "Usage_KWh": 1.9107723806242407,
+    "Status": "Normal",
+    "Prev_Hash": "56fc33868ab899546986e24af8d5eb1a4f8dd2978acdac7fde4d58a18031a134",
+    "Hash": "d3d03696548667e2857414cacda97df9e999e891c85b9bd66b68fdb68a167f35",
+    "Timestamp": "2025-09-03T23:21:58.670531"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 3,
+    "Usage_KWh": 2.576355374335452,
+    "Status": "Normal",
+    "Prev_Hash": "d3d03696548667e2857414cacda97df9e999e891c85b9bd66b68fdb68a167f35",
+    "Hash": "36abb126467dd5c04c60f8f7d91091427b5ddc71a4a2bb8fc5ec03050abf74e6",
+    "Timestamp": "2025-09-03T23:21:58.684823"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 4,
+    "Usage_KWh": 4.914904076576042,
+    "Status": "Normal",
+    "Prev_Hash": "36abb126467dd5c04c60f8f7d91091427b5ddc71a4a2bb8fc5ec03050abf74e6",
+    "Hash": "e247eceae2d7966acbbb7f251eb968007466f75102b5ffdd516a3e8c69d11e78",
+    "Timestamp": "2025-09-03T23:21:58.692020"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 5,
+    "Usage_KWh": 1.9398880030327128,
+    "Status": "Normal",
+    "Prev_Hash": "e247eceae2d7966acbbb7f251eb968007466f75102b5ffdd516a3e8c69d11e78",
+    "Hash": "42ec6b8a52218b841df33eed9a797a7db57d8d42c8d0342197a9e0dd23bde481",
+    "Timestamp": "2025-09-03T23:21:58.694023"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 6,
+    "Usage_KWh": 5.768863335996904,
+    "Status": "Normal",
+    "Prev_Hash": "42ec6b8a52218b841df33eed9a797a7db57d8d42c8d0342197a9e0dd23bde481",
+    "Hash": "9e0c88f719d01cb85d7a9c4b9c8da8538d1fe98eaccb6b95420cbcabddddeff3",
+    "Timestamp": "2025-09-03T23:21:58.711614"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 7,
+    "Usage_KWh": 8.11806248010992,
+    "Status": "Normal",
+    "Prev_Hash": "9e0c88f719d01cb85d7a9c4b9c8da8538d1fe98eaccb6b95420cbcabddddeff3",
+    "Hash": "559fda2627f483f3da7af16d8555524f1b90812a433e6c23c2836717ad0d94a1",
+    "Timestamp": "2025-09-03T23:21:58.713611"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 8,
+    "Usage_KWh": 1.99250586506463,
+    "Status": "Normal",
+    "Prev_Hash": "559fda2627f483f3da7af16d8555524f1b90812a433e6c23c2836717ad0d94a1",
+    "Hash": "90b5300466c3d612a6b57f783a09f63834337ed07cd7e84cb57dfce2fdfad03c",
+    "Timestamp": "2025-09-03T23:21:58.715612"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 9,
+    "Usage_KWh": 1.2367028099283868,
+    "Status": "Normal",
+    "Prev_Hash": "90b5300466c3d612a6b57f783a09f63834337ed07cd7e84cb57dfce2fdfad03c",
+    "Hash": "65b3feca40552a29a36409aa7f98d7f5f3632f9d5f77919146499c1cbf488dc1",
+    "Timestamp": "2025-09-03T23:21:58.722592"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 10,
+    "Usage_KWh": 5.250642321845219,
+    "Status": "Normal",
+    "Prev_Hash": "65b3feca40552a29a36409aa7f98d7f5f3632f9d5f77919146499c1cbf488dc1",
+    "Hash": "59d26b17e066c66c21b77c68bca992785ccb21dbd1e7f7ead6757dbc72789a60",
+    "Timestamp": "2025-09-03T23:21:58.724592"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 11,
+    "Usage_KWh": 7.457305905585104,
+    "Status": "Normal",
+    "Prev_Hash": "59d26b17e066c66c21b77c68bca992785ccb21dbd1e7f7ead6757dbc72789a60",
+    "Hash": "fda67ab92d76ccade0a537b0366b2bd9cb39f1692ca21f6087dd607df5b80c46",
+    "Timestamp": "2025-09-03T23:21:58.725593"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 12,
+    "Usage_KWh": 4.970973389195366,
+    "Status": "Normal",
+    "Prev_Hash": "fda67ab92d76ccade0a537b0366b2bd9cb39f1692ca21f6087dd607df5b80c46",
+    "Hash": "b57d92fc88e82d674b8031e5540437760cf2747c62fe247b501426ecfdccaff7",
+    "Timestamp": "2025-09-03T23:21:58.726589"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 13,
+    "Usage_KWh": 9.416737941918305,
+    "Status": "Normal",
+    "Prev_Hash": "b57d92fc88e82d674b8031e5540437760cf2747c62fe247b501426ecfdccaff7",
+    "Hash": "e482f29358cb869e5c973b7742c0eb75a7d05b66e3999d4879e77c0760fc854a",
+    "Timestamp": "2025-09-03T23:21:58.726589"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 14,
+    "Usage_KWh": 9.71008389296341,
+    "Status": "Normal",
+    "Prev_Hash": "e482f29358cb869e5c973b7742c0eb75a7d05b66e3999d4879e77c0760fc854a",
+    "Hash": "16029ad8d0bb2d918bad8b434918d6a64ea0f2f958f3794bc8769c25c5973329",
+    "Timestamp": "2025-09-03T23:21:58.727589"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 15,
+    "Usage_KWh": 3.552572316806864,
+    "Status": "Normal",
+    "Prev_Hash": "16029ad8d0bb2d918bad8b434918d6a64ea0f2f958f3794bc8769c25c5973329",
+    "Hash": "60015be8090a3a45e6f1ef614a70313102d744ac8f8ca9591335b347b4dd4735",
+    "Timestamp": "2025-09-03T23:21:58.727589"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 16,
+    "Usage_KWh": 9.239402323883388,
+    "Status": "Normal",
+    "Prev_Hash": "60015be8090a3a45e6f1ef614a70313102d744ac8f8ca9591335b347b4dd4735",
+    "Hash": "d9b731ba8f36e5a7240a85d03f08c3c0d0727abaccca291608572313dcd86f57",
+    "Timestamp": "2025-09-03T23:21:58.728588"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 17,
+    "Usage_KWh": 6.4435718886963045,
+    "Status": "Normal",
+    "Prev_Hash": "d9b731ba8f36e5a7240a85d03f08c3c0d0727abaccca291608572313dcd86f57",
+    "Hash": "2fe1acb912cb49d026e91f37cf45d12c5841e00f1996f506ec456ef246031026",
+    "Timestamp": "2025-09-03T23:21:58.729591"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 18,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "2fe1acb912cb49d026e91f37cf45d12c5841e00f1996f506ec456ef246031026",
+    "Hash": "e6ca3beec2a3283aab0732429d717cc58e34531f58ad88b59e18bdb3081e1afb",
+    "Timestamp": "2025-09-03T23:21:58.729591"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 19,
+    "Usage_KWh": 3.175216376317178,
+    "Status": "Normal",
+    "Prev_Hash": "e6ca3beec2a3283aab0732429d717cc58e34531f58ad88b59e18bdb3081e1afb",
+    "Hash": "2353b3e9be167bdde89ad8265fab706e0c51c88316ffa91ef88d61fbbc2fb79f",
+    "Timestamp": "2025-09-03T23:21:58.730590"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 20,
+    "Usage_KWh": 5.543286414277752,
+    "Status": "Normal",
+    "Prev_Hash": "2353b3e9be167bdde89ad8265fab706e0c51c88316ffa91ef88d61fbbc2fb79f",
+    "Hash": "a4f5a518f9da29267d763ce9057b480134769ece9bf41ef15081d73aa22e3f03",
+    "Timestamp": "2025-09-03T23:21:58.730590"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 21,
+    "Usage_KWh": 2.584467143777341,
+    "Status": "Normal",
+    "Prev_Hash": "a4f5a518f9da29267d763ce9057b480134769ece9bf41ef15081d73aa22e3f03",
+    "Hash": "71be20321ad610798ac1f3d27b6c156389372424a39a3625e6d879aca02d8153",
+    "Timestamp": "2025-09-03T23:21:58.735592"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 22,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "71be20321ad610798ac1f3d27b6c156389372424a39a3625e6d879aca02d8153",
+    "Hash": "f6c7baed1d5ad284ebd0993d4a85ed7a49e81f332a0be40d8ea3568cdf230797",
+    "Timestamp": "2025-09-03T23:21:58.736597"
+  },
+  {
+    "Meter_ID": "House_3",
+    "Hour": 23,
+    "Usage_KWh": 5.554016347199548,
+    "Status": "Normal",
+    "Prev_Hash": "f6c7baed1d5ad284ebd0993d4a85ed7a49e81f332a0be40d8ea3568cdf230797",
+    "Hash": "c5538c4d6af963d27515eeaa0d09cc241bd6c8868d114b6a5ceca436eb1cf885",
+    "Timestamp": "2025-09-03T23:21:58.737596"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 0,
+    "Usage_KWh": 2.054569886848848,
+    "Status": "Normal",
+    "Prev_Hash": "c5538c4d6af963d27515eeaa0d09cc241bd6c8868d114b6a5ceca436eb1cf885",
+    "Hash": "99be2c3dd8ab9d5264cfb537a774b35549d064d44074f74035e9b44c2bccc30e",
+    "Timestamp": "2025-09-03T23:21:58.738595"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 1,
+    "Usage_KWh": 3.46174876266367,
+    "Status": "Normal",
+    "Prev_Hash": "99be2c3dd8ab9d5264cfb537a774b35549d064d44074f74035e9b44c2bccc30e",
+    "Hash": "b9258ee8a96f4c9de3c62759cdbaed8d1b48d4b35def0215ff0d518d8faa8c03",
+    "Timestamp": "2025-09-03T23:21:58.739590"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 2,
+    "Usage_KWh": 7.378546169971097,
+    "Status": "Normal",
+    "Prev_Hash": "b9258ee8a96f4c9de3c62759cdbaed8d1b48d4b35def0215ff0d518d8faa8c03",
+    "Hash": "eb7ae4d2916d1aa4ea224c03b0210ea9d28d3673486da2fc8c1763b2327d92d9",
+    "Timestamp": "2025-09-03T23:21:58.741591"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 3,
+    "Usage_KWh": 2.9041742822300622,
+    "Status": "Normal",
+    "Prev_Hash": "eb7ae4d2916d1aa4ea224c03b0210ea9d28d3673486da2fc8c1763b2327d92d9",
+    "Hash": "1d0e69916964adaf6037b7f0eebe77703204aa7843062c1936e3adf64bcff4c2",
+    "Timestamp": "2025-09-03T23:21:58.741591"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 4,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "1d0e69916964adaf6037b7f0eebe77703204aa7843062c1936e3adf64bcff4c2",
+    "Hash": "58235aa9a4cc9707bebabfe8cb2c0a016eb27242c8ffd59318cdb132018fb89f",
+    "Timestamp": "2025-09-03T23:21:58.743595"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 5,
+    "Usage_KWh": 6.429918363094536,
+    "Status": "Normal",
+    "Prev_Hash": "58235aa9a4cc9707bebabfe8cb2c0a016eb27242c8ffd59318cdb132018fb89f",
+    "Hash": "78ff920d9edbe0ca2e55c6e941699a8aefe5cb3e85f7896129a1a5901e54a0b0",
+    "Timestamp": "2025-09-03T23:21:58.743595"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 6,
+    "Usage_KWh": 6.158987787265624,
+    "Status": "Normal",
+    "Prev_Hash": "78ff920d9edbe0ca2e55c6e941699a8aefe5cb3e85f7896129a1a5901e54a0b0",
+    "Hash": "80382cc3520c5206236df5cedb06db49cfb0e01a690057be07febf12447e7901",
+    "Timestamp": "2025-09-03T23:21:58.744589"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 7,
+    "Usage_KWh": 2.5599398014232566,
+    "Status": "Normal",
+    "Prev_Hash": "80382cc3520c5206236df5cedb06db49cfb0e01a690057be07febf12447e7901",
+    "Hash": "e3aaa353ee3d8466f4e63045887d7d77622484fb420a29dfd15f27863fbc8e59",
+    "Timestamp": "2025-09-03T23:21:58.745592"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 8,
+    "Usage_KWh": 8.933317745244576,
+    "Status": "Normal",
+    "Prev_Hash": "e3aaa353ee3d8466f4e63045887d7d77622484fb420a29dfd15f27863fbc8e59",
+    "Hash": "dbc171a66e07ab03a788dba2caa38d4e6968fb5b88e6ab24897df1b4c4a6df71",
+    "Timestamp": "2025-09-03T23:21:58.746587"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 9,
+    "Usage_KWh": 1.8502166527245896,
+    "Status": "Normal",
+    "Prev_Hash": "dbc171a66e07ab03a788dba2caa38d4e6968fb5b88e6ab24897df1b4c4a6df71",
+    "Hash": "a4584135af1f55d4e3515beae960cb9d890c4d40d1c73a90df8ab009fabaef2b",
+    "Timestamp": "2025-09-03T23:21:58.746587"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 10,
+    "Usage_KWh": 9.366704640950983,
+    "Status": "Normal",
+    "Prev_Hash": "a4584135af1f55d4e3515beae960cb9d890c4d40d1c73a90df8ab009fabaef2b",
+    "Hash": "9152e63e4f4824f189348259877f864a7c1c743d80a2960c6e7f6105bdf9b2ad",
+    "Timestamp": "2025-09-03T23:21:58.747590"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 11,
+    "Usage_KWh": 7.596086941885594,
+    "Status": "Normal",
+    "Prev_Hash": "9152e63e4f4824f189348259877f864a7c1c743d80a2960c6e7f6105bdf9b2ad",
+    "Hash": "60d8b09ddc8d4d4d8c50e1cf3836f6bd59a5debcef1032db6cfb6aaa1ab27450",
+    "Timestamp": "2025-09-03T23:21:58.748592"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 12,
+    "Usage_KWh": 6.579174709726381,
+    "Status": "Normal",
+    "Prev_Hash": "60d8b09ddc8d4d4d8c50e1cf3836f6bd59a5debcef1032db6cfb6aaa1ab27450",
+    "Hash": "ac013d054e887e877efa71fb1cea8317eacc24ea88bd4f3795306ec2a50df33f",
+    "Timestamp": "2025-09-03T23:21:58.748592"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 13,
+    "Usage_KWh": 6.328521553532775,
+    "Status": "Normal",
+    "Prev_Hash": "ac013d054e887e877efa71fb1cea8317eacc24ea88bd4f3795306ec2a50df33f",
+    "Hash": "9e8c1c926bd27704d57d8fc4935505de24f4f73c12be30295600c3f8c13d3471",
+    "Timestamp": "2025-09-03T23:21:58.750594"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 14,
+    "Usage_KWh": 2.069464384746832,
+    "Status": "Normal",
+    "Prev_Hash": "9e8c1c926bd27704d57d8fc4935505de24f4f73c12be30295600c3f8c13d3471",
+    "Hash": "e0a872d99c57f858283a0639f6df638ff7883e2e7bd86d0ef367c44bbdd1f4a9",
+    "Timestamp": "2025-09-03T23:21:58.750594"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 15,
+    "Usage_KWh": 2.226600694092963,
+    "Status": "Normal",
+    "Prev_Hash": "e0a872d99c57f858283a0639f6df638ff7883e2e7bd86d0ef367c44bbdd1f4a9",
+    "Hash": "530ad99142f14a74b5810963a3125812b460c51a283b4bb590565524fefc493f",
+    "Timestamp": "2025-09-03T23:21:58.751591"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 16,
+    "Usage_KWh": 9.89127567023473,
+    "Status": "Normal",
+    "Prev_Hash": "530ad99142f14a74b5810963a3125812b460c51a283b4bb590565524fefc493f",
+    "Hash": "a20caa7bda82dc3dbd4bd1988ef79a09e6291b35e100f5002b48c60409edfe35",
+    "Timestamp": "2025-09-03T23:21:58.751591"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 17,
+    "Usage_KWh": 9.722473009248604,
+    "Status": "Normal",
+    "Prev_Hash": "a20caa7bda82dc3dbd4bd1988ef79a09e6291b35e100f5002b48c60409edfe35",
+    "Hash": "651746961782255e468cfa7945db4e24aa1747237fba5c1377c5bf7d8a3fedc3",
+    "Timestamp": "2025-09-03T23:21:58.752590"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 18,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "651746961782255e468cfa7945db4e24aa1747237fba5c1377c5bf7d8a3fedc3",
+    "Hash": "ff81c519b0170dd997954f915de2cc0f559beecab48072269fbc465ddc539d0a",
+    "Timestamp": "2025-09-03T23:21:58.752590"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 19,
+    "Usage_KWh": 2.677409055137117,
+    "Status": "Normal",
+    "Prev_Hash": "ff81c519b0170dd997954f915de2cc0f559beecab48072269fbc465ddc539d0a",
+    "Hash": "a50d1723a578097e3bc48e2b70f5407fa5e439d043878209ea5f7e47bbc0fed4",
+    "Timestamp": "2025-09-03T23:21:58.753587"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 20,
+    "Usage_KWh": 6.6875075366583125,
+    "Status": "Normal",
+    "Prev_Hash": "a50d1723a578097e3bc48e2b70f5407fa5e439d043878209ea5f7e47bbc0fed4",
+    "Hash": "5ad0c47d32bd2309cb5db4330e27774659c328749409b45f8ab4fa9201fa34ae",
+    "Timestamp": "2025-09-03T23:21:58.753587"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 21,
+    "Usage_KWh": 7.989214973704252,
+    "Status": "Normal",
+    "Prev_Hash": "5ad0c47d32bd2309cb5db4330e27774659c328749409b45f8ab4fa9201fa34ae",
+    "Hash": "0e676d8881ff7bc6819f844896a42740f66b056d55987cb6f2e648c87375b919",
+    "Timestamp": "2025-09-03T23:21:58.753587"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 22,
+    "Usage_KWh": 5.294308397648315,
+    "Status": "Normal",
+    "Prev_Hash": "0e676d8881ff7bc6819f844896a42740f66b056d55987cb6f2e648c87375b919",
+    "Hash": "69af21dde8fb697bb227a0865cfd5711cd5de3907f36589e35d82e32a37701f4",
+    "Timestamp": "2025-09-03T23:21:58.754589"
+  },
+  {
+    "Meter_ID": "House_4",
+    "Hour": 23,
+    "Usage_KWh": 3.7572590785359834,
+    "Status": "Normal",
+    "Prev_Hash": "69af21dde8fb697bb227a0865cfd5711cd5de3907f36589e35d82e32a37701f4",
+    "Hash": "4ab1828b96ff1ba067b9ac19a7e74ad7f391ce191894dcf39b095caceef8e73d",
+    "Timestamp": "2025-09-03T23:21:58.754589"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 0,
+    "Usage_KWh": 7.467455336760288,
+    "Status": "Normal",
+    "Prev_Hash": "4ab1828b96ff1ba067b9ac19a7e74ad7f391ce191894dcf39b095caceef8e73d",
+    "Hash": "da91bb07b6ac703d5dadf23d541c9aca796d4d5018282fc29e469e7baac074c0",
+    "Timestamp": "2025-09-03T23:21:58.755589"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 1,
+    "Usage_KWh": 7.460812616824091,
+    "Status": "Normal",
+    "Prev_Hash": "da91bb07b6ac703d5dadf23d541c9aca796d4d5018282fc29e469e7baac074c0",
+    "Hash": "7d215b01b143a3eff6e0a4896dad9300d18681e73adc411fc5949cf144e02b78",
+    "Timestamp": "2025-09-03T23:21:58.756589"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 2,
+    "Usage_KWh": 5.689962013755693,
+    "Status": "Normal",
+    "Prev_Hash": "7d215b01b143a3eff6e0a4896dad9300d18681e73adc411fc5949cf144e02b78",
+    "Hash": "45b223793c5104738381569529f194fa824cda55dc5866190dc14d0c7d031d18",
+    "Timestamp": "2025-09-03T23:21:58.757589"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 3,
+    "Usage_KWh": 4.100028527548213,
+    "Status": "Normal",
+    "Prev_Hash": "45b223793c5104738381569529f194fa824cda55dc5866190dc14d0c7d031d18",
+    "Hash": "42957ba284dd97136938e678f2522f478e92b54f52fb136c377450cee4eb814b",
+    "Timestamp": "2025-09-03T23:21:58.757589"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 4,
+    "Usage_KWh": 6.933819150768466,
+    "Status": "Normal",
+    "Prev_Hash": "42957ba284dd97136938e678f2522f478e92b54f52fb136c377450cee4eb814b",
+    "Hash": "7d5241d5b5684e36063c30d57fab75b88fc4a245d56fde3ad52bee71654802cb",
+    "Timestamp": "2025-09-03T23:21:58.757589"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 5,
+    "Usage_KWh": 1.497597810877584,
+    "Status": "Normal",
+    "Prev_Hash": "7d5241d5b5684e36063c30d57fab75b88fc4a245d56fde3ad52bee71654802cb",
+    "Hash": "515761177f56ec07a65f8544f40493d54846994fc7e8b5b909c8a092586b522b",
+    "Timestamp": "2025-09-03T23:21:58.758588"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 6,
+    "Usage_KWh": 4.384852162319685,
+    "Status": "Normal",
+    "Prev_Hash": "515761177f56ec07a65f8544f40493d54846994fc7e8b5b909c8a092586b522b",
+    "Hash": "7a4c3cd6b7e44b773d71d6366f88635d8ae534afd811ac9e580e8b8c437d7125",
+    "Timestamp": "2025-09-03T23:21:58.758588"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 7,
+    "Usage_KWh": 3.652102387449847,
+    "Status": "Normal",
+    "Prev_Hash": "7a4c3cd6b7e44b773d71d6366f88635d8ae534afd811ac9e580e8b8c437d7125",
+    "Hash": "3ba14269afef116aac12c217f9fc8925dfd8df73b1a71a7087bcf74c994eff4a",
+    "Timestamp": "2025-09-03T23:21:58.758588"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 8,
+    "Usage_KWh": 2.748393800038803,
+    "Status": "Normal",
+    "Prev_Hash": "3ba14269afef116aac12c217f9fc8925dfd8df73b1a71a7087bcf74c994eff4a",
+    "Hash": "ffaa39cfdaaae17f59b8ada5c1eea0f5d6952a78a57d262011a32a6e18904f29",
+    "Timestamp": "2025-09-03T23:21:58.759590"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 9,
+    "Usage_KWh": 7.338792922174957,
+    "Status": "Normal",
+    "Prev_Hash": "ffaa39cfdaaae17f59b8ada5c1eea0f5d6952a78a57d262011a32a6e18904f29",
+    "Hash": "8e9a85a1e26392422a63ca37093e25796e46ffab2d8e8f9355f35a92fefad6c7",
+    "Timestamp": "2025-09-03T23:21:58.759590"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 10,
+    "Usage_KWh": 4.347511490415245,
+    "Status": "Normal",
+    "Prev_Hash": "8e9a85a1e26392422a63ca37093e25796e46ffab2d8e8f9355f35a92fefad6c7",
+    "Hash": "d6473b228667a84bf870486cc703dd64c86b61027dfb3c973dfb12859101c3c1",
+    "Timestamp": "2025-09-03T23:21:58.760587"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 11,
+    "Usage_KWh": 7.487812325868856,
+    "Status": "Normal",
+    "Prev_Hash": "d6473b228667a84bf870486cc703dd64c86b61027dfb3c973dfb12859101c3c1",
+    "Hash": "49868b76953ba2487545d187eb92811187bfa2c3a340b787f468dc48ac2ded38",
+    "Timestamp": "2025-09-03T23:21:58.761589"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 12,
+    "Usage_KWh": 4.416076384347679,
+    "Status": "Normal",
+    "Prev_Hash": "49868b76953ba2487545d187eb92811187bfa2c3a340b787f468dc48ac2ded38",
+    "Hash": "8927aca7998d13fc2209c76ba76c8f2aefa01295a3c571a9e8cbec5a28c71315",
+    "Timestamp": "2025-09-03T23:21:58.761589"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 13,
+    "Usage_KWh": 8.888193864289306,
+    "Status": "Normal",
+    "Prev_Hash": "8927aca7998d13fc2209c76ba76c8f2aefa01295a3c571a9e8cbec5a28c71315",
+    "Hash": "b80f147559e45cae04388a9a09b5aac417e40d869e5a30c31fdbc2c235abd802",
+    "Timestamp": "2025-09-03T23:21:58.762593"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 14,
+    "Usage_KWh": 8.32101001531387,
+    "Status": "Normal",
+    "Prev_Hash": "b80f147559e45cae04388a9a09b5aac417e40d869e5a30c31fdbc2c235abd802",
+    "Hash": "c7246ba64bee1ff75e34616c90a40443064e264e8be028530aa2d2dbcb4553d1",
+    "Timestamp": "2025-09-03T23:21:58.762593"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 15,
+    "Usage_KWh": 2.6083830585226004,
+    "Status": "Normal",
+    "Prev_Hash": "c7246ba64bee1ff75e34616c90a40443064e264e8be028530aa2d2dbcb4553d1",
+    "Hash": "3b7f3daa9b117c457b78daedb51b0081fa2f31c8bfb25cade93f3dc7d3076b12",
+    "Timestamp": "2025-09-03T23:21:58.762593"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 16,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "3b7f3daa9b117c457b78daedb51b0081fa2f31c8bfb25cade93f3dc7d3076b12",
+    "Hash": "68f7d6e105d03943b412015a00530556bafc62e68c1dc3b5dcb2b60a9c3b1842",
+    "Timestamp": "2025-09-03T23:21:58.763588"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 17,
+    "Usage_KWh": 8.438767963360062,
+    "Status": "Normal",
+    "Prev_Hash": "68f7d6e105d03943b412015a00530556bafc62e68c1dc3b5dcb2b60a9c3b1842",
+    "Hash": "e65b1708676ddbde1d76fd9d664607d641d394831408cf36d01a8d7629cc6d4f",
+    "Timestamp": "2025-09-03T23:21:58.763588"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 18,
+    "Usage_KWh": 8.569003155199486,
+    "Status": "Normal",
+    "Prev_Hash": "e65b1708676ddbde1d76fd9d664607d641d394831408cf36d01a8d7629cc6d4f",
+    "Hash": "1ff02516a43fc261bbcaf2d41182e59b96ff0257a87d54d887cd483e2cea275b",
+    "Timestamp": "2025-09-03T23:21:58.763588"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 19,
+    "Usage_KWh": 2.01819734176333,
+    "Status": "Normal",
+    "Prev_Hash": "1ff02516a43fc261bbcaf2d41182e59b96ff0257a87d54d887cd483e2cea275b",
+    "Hash": "a7aa29ebbf378d3be39293c56be8fecd422ec716c47413712fc7cfb9ab4af098",
+    "Timestamp": "2025-09-03T23:21:58.764586"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 20,
+    "Usage_KWh": 1.6236866981640277,
+    "Status": "Normal",
+    "Prev_Hash": "a7aa29ebbf378d3be39293c56be8fecd422ec716c47413712fc7cfb9ab4af098",
+    "Hash": "0a63ef0bbf37ab3aa753248251fb6d762835999764f683c90ba97aa825b8eed6",
+    "Timestamp": "2025-09-03T23:21:58.764586"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 21,
+    "Usage_KWh": 4.135974099074614,
+    "Status": "Normal",
+    "Prev_Hash": "0a63ef0bbf37ab3aa753248251fb6d762835999764f683c90ba97aa825b8eed6",
+    "Hash": "95a88e26845cb01e6cd6c9265d551e5165cac5729a1fda13a582d91a33af38ce",
+    "Timestamp": "2025-09-03T23:21:58.767591"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 22,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "95a88e26845cb01e6cd6c9265d551e5165cac5729a1fda13a582d91a33af38ce",
+    "Hash": "eb1f48caa37dd8164dd427851a5f2344b48aed3a10ef4ebb8e8080ab1f4489c7",
+    "Timestamp": "2025-09-03T23:21:58.770590"
+  },
+  {
+    "Meter_ID": "House_5",
+    "Hour": 23,
+    "Usage_KWh": 5.08940758767427,
+    "Status": "Normal",
+    "Prev_Hash": "eb1f48caa37dd8164dd427851a5f2344b48aed3a10ef4ebb8e8080ab1f4489c7",
+    "Hash": "fce92beca05c5c27e7152a60cbd8577ed3c1eb3a07f9930562eceba3bfc6fc20",
+    "Timestamp": "2025-09-03T23:21:58.771597"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 0,
+    "Usage_KWh": 8.5809372403913,
+    "Status": "Normal",
+    "Prev_Hash": "fce92beca05c5c27e7152a60cbd8577ed3c1eb3a07f9930562eceba3bfc6fc20",
+    "Hash": "caf2c8d099ea73149c5fbe9ee195b8c505e4d7ae8a8c17e4dc212e51188ac8c4",
+    "Timestamp": "2025-09-03T23:21:58.771597"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 1,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "caf2c8d099ea73149c5fbe9ee195b8c505e4d7ae8a8c17e4dc212e51188ac8c4",
+    "Hash": "7d4ad600cd026b1a0540cf4461480ae2b910f9e8c4d43483bac855e4b056046a",
+    "Timestamp": "2025-09-03T23:21:58.774593"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 2,
+    "Usage_KWh": 3.526984118296301,
+    "Status": "Normal",
+    "Prev_Hash": "7d4ad600cd026b1a0540cf4461480ae2b910f9e8c4d43483bac855e4b056046a",
+    "Hash": "7e081aef2600dfac9ba2048fec1e55fca76b897936233029b485769c46c4d0b8",
+    "Timestamp": "2025-09-03T23:21:58.776594"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 3,
+    "Usage_KWh": 9.366794514017664,
+    "Status": "Normal",
+    "Prev_Hash": "7e081aef2600dfac9ba2048fec1e55fca76b897936233029b485769c46c4d0b8",
+    "Hash": "806c4f518a57ad069b8da4c5aa25228a4aded5e51674140ac7e94a3ad577e4cb",
+    "Timestamp": "2025-09-03T23:21:58.777590"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 4,
+    "Usage_KWh": 7.445605312841256,
+    "Status": "Normal",
+    "Prev_Hash": "806c4f518a57ad069b8da4c5aa25228a4aded5e51674140ac7e94a3ad577e4cb",
+    "Hash": "ac994eaa215badf1e3eba2b0f809800c734ce047bba6e9560e08c557a5f19df5",
+    "Timestamp": "2025-09-03T23:21:58.782852"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 5,
+    "Usage_KWh": 1.1908451071499002,
+    "Status": "Normal",
+    "Prev_Hash": "ac994eaa215badf1e3eba2b0f809800c734ce047bba6e9560e08c557a5f19df5",
+    "Hash": "2983ddbcbe33ad2fb9059ce84e7c41c45c5d8550ee089c4493988f0819b8d745",
+    "Timestamp": "2025-09-03T23:21:58.784848"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 6,
+    "Usage_KWh": 3.45411554657594,
+    "Status": "Normal",
+    "Prev_Hash": "2983ddbcbe33ad2fb9059ce84e7c41c45c5d8550ee089c4493988f0819b8d745",
+    "Hash": "c275faabd4b9c2aa5281e2b5366a7f03497ba6b868bce3f34b749bcdef2039d5",
+    "Timestamp": "2025-09-03T23:21:58.797143"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 7,
+    "Usage_KWh": 3.674608381133538,
+    "Status": "Normal",
+    "Prev_Hash": "c275faabd4b9c2aa5281e2b5366a7f03497ba6b868bce3f34b749bcdef2039d5",
+    "Hash": "00c756d6357aa2b5c1a94f89b5afb960f0230322822136fc97b0d18bd8feafb5",
+    "Timestamp": "2025-09-03T23:21:58.798147"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 8,
+    "Usage_KWh": 2.928059344691007,
+    "Status": "Normal",
+    "Prev_Hash": "00c756d6357aa2b5c1a94f89b5afb960f0230322822136fc97b0d18bd8feafb5",
+    "Hash": "2c6a47afc7097602ece8e05d23da81f659c750416b922792a46fc57917c28fbd",
+    "Timestamp": "2025-09-03T23:21:58.807039"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 9,
+    "Usage_KWh": 1.030450639783392,
+    "Status": "Normal",
+    "Prev_Hash": "2c6a47afc7097602ece8e05d23da81f659c750416b922792a46fc57917c28fbd",
+    "Hash": "0e0408cb6695144222ef93936fe23dbe04a2c7c407c703bc68370b40b780dc32",
+    "Timestamp": "2025-09-03T23:21:58.808054"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 10,
+    "Usage_KWh": 6.867601210468617,
+    "Status": "Normal",
+    "Prev_Hash": "0e0408cb6695144222ef93936fe23dbe04a2c7c407c703bc68370b40b780dc32",
+    "Hash": "d49a8d8f44277ee1965221e1bfa606ee2c89225ebc9429e7c8d649263666cfd1",
+    "Timestamp": "2025-09-03T23:21:58.812296"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 11,
+    "Usage_KWh": 1.9709886088333173,
+    "Status": "Normal",
+    "Prev_Hash": "d49a8d8f44277ee1965221e1bfa606ee2c89225ebc9429e7c8d649263666cfd1",
+    "Hash": "7bcc7e26b398ff7c1a4af204fd5a765ea392d0f6ad266b763ddf78dc60dd208c",
+    "Timestamp": "2025-09-03T23:21:58.814300"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 12,
+    "Usage_KWh": 9.049754469453882,
+    "Status": "Normal",
+    "Prev_Hash": "7bcc7e26b398ff7c1a4af204fd5a765ea392d0f6ad266b763ddf78dc60dd208c",
+    "Hash": "9830cf63e95688274e2930bada52fcb2176eb642d9bb6ae9932f8ff35eb8c84b",
+    "Timestamp": "2025-09-03T23:21:58.815297"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 13,
+    "Usage_KWh": 4.93059343378495,
+    "Status": "Normal",
+    "Prev_Hash": "9830cf63e95688274e2930bada52fcb2176eb642d9bb6ae9932f8ff35eb8c84b",
+    "Hash": "0a98d4a1c43ad640346a99472bf8108273ce21030e897e2efd52e0f30f813ac2",
+    "Timestamp": "2025-09-03T23:21:58.821379"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 14,
+    "Usage_KWh": 6.072464599923332,
+    "Status": "Normal",
+    "Prev_Hash": "0a98d4a1c43ad640346a99472bf8108273ce21030e897e2efd52e0f30f813ac2",
+    "Hash": "2399698bfaf97503448191ac8e55df2012b6518b1155eb86e99934a291eef4ce",
+    "Timestamp": "2025-09-03T23:21:58.821379"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 15,
+    "Usage_KWh": 6.677168145205383,
+    "Status": "Normal",
+    "Prev_Hash": "2399698bfaf97503448191ac8e55df2012b6518b1155eb86e99934a291eef4ce",
+    "Hash": "d3e1d7b78106fc1d2d2d58dc6c1a0f136333d2399ea5a919f7892888e1fff6e3",
+    "Timestamp": "2025-09-03T23:21:58.822378"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 16,
+    "Usage_KWh": 7.742551871634687,
+    "Status": "Normal",
+    "Prev_Hash": "d3e1d7b78106fc1d2d2d58dc6c1a0f136333d2399ea5a919f7892888e1fff6e3",
+    "Hash": "a59e6982e6ca083f02d147d8c7a277997302f3623c899a1bce6f94a1f67d8e16",
+    "Timestamp": "2025-09-03T23:21:58.823376"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 17,
+    "Usage_KWh": 2.0293845493342992,
+    "Status": "Normal",
+    "Prev_Hash": "a59e6982e6ca083f02d147d8c7a277997302f3623c899a1bce6f94a1f67d8e16",
+    "Hash": "1f0765f447e570cc4d5cc37950883ddc40b10cfdec2b27320f4510504a1ec16e",
+    "Timestamp": "2025-09-03T23:21:58.824379"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 18,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "1f0765f447e570cc4d5cc37950883ddc40b10cfdec2b27320f4510504a1ec16e",
+    "Hash": "7d111480fbd3a684111742254ab30e53dfdaf3259acb00c058219ddbf19e83c2",
+    "Timestamp": "2025-09-03T23:21:58.825382"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 19,
+    "Usage_KWh": 8.669251271948538,
+    "Status": "Normal",
+    "Prev_Hash": "7d111480fbd3a684111742254ab30e53dfdaf3259acb00c058219ddbf19e83c2",
+    "Hash": "ce28125dc427ab53d1d1ab03d53a4e595c3837969302269b8bae76cc0cf045ca",
+    "Timestamp": "2025-09-03T23:21:58.827380"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 20,
+    "Usage_KWh": 3.3580514539030446,
+    "Status": "Normal",
+    "Prev_Hash": "ce28125dc427ab53d1d1ab03d53a4e595c3837969302269b8bae76cc0cf045ca",
+    "Hash": "eb07821e77a1e0d7a384129b0df3649bcf08731d165f7d70b5fe77d798d02ebc",
+    "Timestamp": "2025-09-03T23:21:58.828377"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 21,
+    "Usage_KWh": 4.252179611348842,
+    "Status": "Normal",
+    "Prev_Hash": "eb07821e77a1e0d7a384129b0df3649bcf08731d165f7d70b5fe77d798d02ebc",
+    "Hash": "4fe7411dd0078b00cb983d26f2cdada3912d3f5ffc7edc78d3cd0db159da9372",
+    "Timestamp": "2025-09-03T23:21:58.828377"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 22,
+    "Usage_KWh": 9.625069634723411,
+    "Status": "Normal",
+    "Prev_Hash": "4fe7411dd0078b00cb983d26f2cdada3912d3f5ffc7edc78d3cd0db159da9372",
+    "Hash": "64d82de22c103155c69e1839ed2946b901741a17e048483be0b4c005bf433cd6",
+    "Timestamp": "2025-09-03T23:21:58.829375"
+  },
+  {
+    "Meter_ID": "House_6",
+    "Hour": 23,
+    "Usage_KWh": 3.1610428988259223,
+    "Status": "Normal",
+    "Prev_Hash": "64d82de22c103155c69e1839ed2946b901741a17e048483be0b4c005bf433cd6",
+    "Hash": "5cd3984e0ece5b80b2a4199b4ce2684b0953a01d6b9eee84ee09dc4559334747",
+    "Timestamp": "2025-09-03T23:21:58.829375"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 0,
+    "Usage_KWh": 9.719564127447558,
+    "Status": "Normal",
+    "Prev_Hash": "5cd3984e0ece5b80b2a4199b4ce2684b0953a01d6b9eee84ee09dc4559334747",
+    "Hash": "eab6ec1d81e7f96cef7d917bd08726ceec35a149ac2c2ea781789bcebda8cfd3",
+    "Timestamp": "2025-09-03T23:21:58.830373"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 1,
+    "Usage_KWh": 7.562526525383253,
+    "Status": "Normal",
+    "Prev_Hash": "eab6ec1d81e7f96cef7d917bd08726ceec35a149ac2c2ea781789bcebda8cfd3",
+    "Hash": "6b83763d1ffccaafcd59859bacd0293921961caadd2c28d549553c89b70a8495",
+    "Timestamp": "2025-09-03T23:21:58.830373"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 2,
+    "Usage_KWh": 2.3180684291570293,
+    "Status": "Normal",
+    "Prev_Hash": "6b83763d1ffccaafcd59859bacd0293921961caadd2c28d549553c89b70a8495",
+    "Hash": "a5c6f8f2254c0118824fb14c3217e16c37c9d307eea490cea5bccf8ec2f7981c",
+    "Timestamp": "2025-09-03T23:21:58.831377"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 3,
+    "Usage_KWh": 1.5555222873468102,
+    "Status": "Normal",
+    "Prev_Hash": "a5c6f8f2254c0118824fb14c3217e16c37c9d307eea490cea5bccf8ec2f7981c",
+    "Hash": "468b83464a6f3da691c0525350e48147040804660217f84479626bd2db463240",
+    "Timestamp": "2025-09-03T23:21:58.831377"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 4,
+    "Usage_KWh": 2.3643326399005358,
+    "Status": "Normal",
+    "Prev_Hash": "468b83464a6f3da691c0525350e48147040804660217f84479626bd2db463240",
+    "Hash": "f9bbecb0e0e9cf946e34b3b78b9b9c2b60d8eaef75e6ca6d950ccb9fa9076e90",
+    "Timestamp": "2025-09-03T23:21:58.832375"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 5,
+    "Usage_KWh": 9.170648079149544,
+    "Status": "Normal",
+    "Prev_Hash": "f9bbecb0e0e9cf946e34b3b78b9b9c2b60d8eaef75e6ca6d950ccb9fa9076e90",
+    "Hash": "4f0f522caa4ae769fb011dc88049b50b3c9a5c9a977900cd884cd0f2dc43a336",
+    "Timestamp": "2025-09-03T23:21:58.832375"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 6,
+    "Usage_KWh": 3.970906056448354,
+    "Status": "Normal",
+    "Prev_Hash": "4f0f522caa4ae769fb011dc88049b50b3c9a5c9a977900cd884cd0f2dc43a336",
+    "Hash": "588c3667e60a473a250e9fc094caf81f503f6e03f17b9d880243d205271525bf",
+    "Timestamp": "2025-09-03T23:21:58.836377"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 7,
+    "Usage_KWh": 7.839134373975478,
+    "Status": "Normal",
+    "Prev_Hash": "588c3667e60a473a250e9fc094caf81f503f6e03f17b9d880243d205271525bf",
+    "Hash": "9e4f0b67a12175cbe83b1049eb458b226aa5243bbab7e16df406215d84dfa05c",
+    "Timestamp": "2025-09-03T23:21:58.838378"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 8,
+    "Usage_KWh": 6.133832576818128,
+    "Status": "Normal",
+    "Prev_Hash": "9e4f0b67a12175cbe83b1049eb458b226aa5243bbab7e16df406215d84dfa05c",
+    "Hash": "4651e6449199197af9e17a0152d4b0d409d2364cfabe75fef42234777cf0533b",
+    "Timestamp": "2025-09-03T23:21:58.838378"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 9,
+    "Usage_KWh": 6.286539408014282,
+    "Status": "Normal",
+    "Prev_Hash": "4651e6449199197af9e17a0152d4b0d409d2364cfabe75fef42234777cf0533b",
+    "Hash": "7e2ba2098681a7cccd19bd0ab04f4cc61d711cd2574887e67169d8f1da604f39",
+    "Timestamp": "2025-09-03T23:21:58.841264"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 10,
+    "Usage_KWh": 4.209966347107821,
+    "Status": "Normal",
+    "Prev_Hash": "7e2ba2098681a7cccd19bd0ab04f4cc61d711cd2574887e67169d8f1da604f39",
+    "Hash": "843fe4a2ce184fafb044ef309e52a3939bb4a4dc6cd9cbed48cb55193d8da854",
+    "Timestamp": "2025-09-03T23:21:58.842268"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 11,
+    "Usage_KWh": 7.899239701099184,
+    "Status": "Normal",
+    "Prev_Hash": "843fe4a2ce184fafb044ef309e52a3939bb4a4dc6cd9cbed48cb55193d8da854",
+    "Hash": "9f14e14f7418ed0dc17d79f3ee3a1a5e1a98a1b0e1fce90646f60a603028d872",
+    "Timestamp": "2025-09-03T23:21:58.843268"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 12,
+    "Usage_KWh": 1.0738750446284533,
+    "Status": "Normal",
+    "Prev_Hash": "9f14e14f7418ed0dc17d79f3ee3a1a5e1a98a1b0e1fce90646f60a603028d872",
+    "Hash": "9c22b63ffa4f3565a10e925b9d0579ef99c06710099a7940c569f43edefdd88f",
+    "Timestamp": "2025-09-03T23:21:58.843268"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 13,
+    "Usage_KWh": 8.045610332352727,
+    "Status": "Normal",
+    "Prev_Hash": "9c22b63ffa4f3565a10e925b9d0579ef99c06710099a7940c569f43edefdd88f",
+    "Hash": "7d749cc26a0584d6020c59f4778d4649b687db2f11672ba938c775a94cffb6cc",
+    "Timestamp": "2025-09-03T23:21:58.844269"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 14,
+    "Usage_KWh": 8.958344932855377,
+    "Status": "Normal",
+    "Prev_Hash": "7d749cc26a0584d6020c59f4778d4649b687db2f11672ba938c775a94cffb6cc",
+    "Hash": "bdb077077dd28f142f147d4b1ac5ae578236ce5c5e7bb8148e646773c2a0bf4a",
+    "Timestamp": "2025-09-03T23:21:58.844269"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 15,
+    "Usage_KWh": 4.3085307332477365,
+    "Status": "Normal",
+    "Prev_Hash": "bdb077077dd28f142f147d4b1ac5ae578236ce5c5e7bb8148e646773c2a0bf4a",
+    "Hash": "93a2bcef1cb2ee92c5bb8bbcd61cb9e52df659d38f458acf22e1b5fa1d885e0d",
+    "Timestamp": "2025-09-03T23:21:58.845266"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 16,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "93a2bcef1cb2ee92c5bb8bbcd61cb9e52df659d38f458acf22e1b5fa1d885e0d",
+    "Hash": "c86af95da0d9f3c7071981ef2963465357c6bb019e1dd9bcbf4c5101ba085ae3",
+    "Timestamp": "2025-09-03T23:21:58.848267"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 17,
+    "Usage_KWh": 2.641539614809173,
+    "Status": "Normal",
+    "Prev_Hash": "c86af95da0d9f3c7071981ef2963465357c6bb019e1dd9bcbf4c5101ba085ae3",
+    "Hash": "bca109a9ea92d552d6e94b2947ab3ee4520aa7bdb36754a2c961c7ede280c570",
+    "Timestamp": "2025-09-03T23:21:58.848267"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 18,
+    "Usage_KWh": 9.210178275543546,
+    "Status": "Normal",
+    "Prev_Hash": "bca109a9ea92d552d6e94b2947ab3ee4520aa7bdb36754a2c961c7ede280c570",
+    "Hash": "cb52ee5d9fb865af4bc90a4edf1658a4efe80ee3909a848069f8215416f2c36d",
+    "Timestamp": "2025-09-03T23:21:58.856845"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 19,
+    "Usage_KWh": 9.292036480483164,
+    "Status": "Normal",
+    "Prev_Hash": "cb52ee5d9fb865af4bc90a4edf1658a4efe80ee3909a848069f8215416f2c36d",
+    "Hash": "91d0efc4af3ab1e481228cb78f1283b9e92926fd467a12cb12aa33ebf467a1b6",
+    "Timestamp": "2025-09-03T23:21:58.857838"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 20,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "91d0efc4af3ab1e481228cb78f1283b9e92926fd467a12cb12aa33ebf467a1b6",
+    "Hash": "e5b51575767a9f3e1c2614f5a2096334303ff1f8233c7cbb7d48a293f06d4731",
+    "Timestamp": "2025-09-03T23:21:58.857838"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 21,
+    "Usage_KWh": 5.341444899627449,
+    "Status": "Normal",
+    "Prev_Hash": "e5b51575767a9f3e1c2614f5a2096334303ff1f8233c7cbb7d48a293f06d4731",
+    "Hash": "eb90944c39a598fd2e51fd60cc47337387778a36478b5b589377fe67271306fd",
+    "Timestamp": "2025-09-03T23:21:58.858842"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 22,
+    "Usage_KWh": 1.8397887960148545,
+    "Status": "Normal",
+    "Prev_Hash": "eb90944c39a598fd2e51fd60cc47337387778a36478b5b589377fe67271306fd",
+    "Hash": "eaf56631493bceb629394a4e4f5d74415367e50fa57823e7e5c31967bc060815",
+    "Timestamp": "2025-09-03T23:21:58.858842"
+  },
+  {
+    "Meter_ID": "House_7",
+    "Hour": 23,
+    "Usage_KWh": 1.84718673136997,
+    "Status": "Normal",
+    "Prev_Hash": "eaf56631493bceb629394a4e4f5d74415367e50fa57823e7e5c31967bc060815",
+    "Hash": "23a33e313e6dced9110523b797baf3060deded8aa4842863e5a30a7e1b8c7b70",
+    "Timestamp": "2025-09-03T23:21:58.859839"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 0,
+    "Usage_KWh": 7.259604203433948,
+    "Status": "Normal",
+    "Prev_Hash": "23a33e313e6dced9110523b797baf3060deded8aa4842863e5a30a7e1b8c7b70",
+    "Hash": "a289870456e02ace1305ca0e34fd3be75e2eb6c86bf05fb19ed156c07f917ac1",
+    "Timestamp": "2025-09-03T23:21:58.860840"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 1,
+    "Usage_KWh": 5.528889036445709,
+    "Status": "Normal",
+    "Prev_Hash": "a289870456e02ace1305ca0e34fd3be75e2eb6c86bf05fb19ed156c07f917ac1",
+    "Hash": "c263bf8d68f33466404873fb18921818f3d57a4b7f10203fe7e1f939806ed005",
+    "Timestamp": "2025-09-03T23:21:58.860840"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 2,
+    "Usage_KWh": 3.9552013385600366,
+    "Status": "Normal",
+    "Prev_Hash": "c263bf8d68f33466404873fb18921818f3d57a4b7f10203fe7e1f939806ed005",
+    "Hash": "877cfebc71637b970090b968f63403817d210f0d5595d3aa9d636d074e58a5e3",
+    "Timestamp": "2025-09-03T23:21:58.862836"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 3,
+    "Usage_KWh": 5.220813913233863,
+    "Status": "Normal",
+    "Prev_Hash": "877cfebc71637b970090b968f63403817d210f0d5595d3aa9d636d074e58a5e3",
+    "Hash": "0aaf45d942138f497e357319343837a83de99046d429e8cd6a7d04aef27d6c5a",
+    "Timestamp": "2025-09-03T23:21:58.863835"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 4,
+    "Usage_KWh": 1.8936374043586115,
+    "Status": "Normal",
+    "Prev_Hash": "0aaf45d942138f497e357319343837a83de99046d429e8cd6a7d04aef27d6c5a",
+    "Hash": "bd33719def26bf9527cb0d4ca5068c1405624614c84014cacb2d34e6980b0164",
+    "Timestamp": "2025-09-03T23:21:58.865842"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 5,
+    "Usage_KWh": 5.54555118893581,
+    "Status": "Normal",
+    "Prev_Hash": "bd33719def26bf9527cb0d4ca5068c1405624614c84014cacb2d34e6980b0164",
+    "Hash": "848a86e3f38d9a3290a614d58e24cd82c9783c1d573ab18822655290baa2f196",
+    "Timestamp": "2025-09-03T23:21:58.871104"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 6,
+    "Usage_KWh": 6.018893098365645,
+    "Status": "Normal",
+    "Prev_Hash": "848a86e3f38d9a3290a614d58e24cd82c9783c1d573ab18822655290baa2f196",
+    "Hash": "3e51f696c0e5ed62e970067490eca8cfd0adb38e8ed17fa719fd1638104a1b69",
+    "Timestamp": "2025-09-03T23:21:58.872118"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 7,
+    "Usage_KWh": 3.26400663826428,
+    "Status": "Normal",
+    "Prev_Hash": "3e51f696c0e5ed62e970067490eca8cfd0adb38e8ed17fa719fd1638104a1b69",
+    "Hash": "0995c33ec0e364f86779813803058e91919c42ce85dacc8313bb46a6c4dff803",
+    "Timestamp": "2025-09-03T23:21:58.873107"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 8,
+    "Usage_KWh": 8.492439334628038,
+    "Status": "Normal",
+    "Prev_Hash": "0995c33ec0e364f86779813803058e91919c42ce85dacc8313bb46a6c4dff803",
+    "Hash": "808067d073f73113b63796f639dfd5622cafa7bb5bcf10e0b4bb9ac8af56d64e",
+    "Timestamp": "2025-09-03T23:21:58.874107"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 9,
+    "Usage_KWh": 6.7536788696629415,
+    "Status": "Normal",
+    "Prev_Hash": "808067d073f73113b63796f639dfd5622cafa7bb5bcf10e0b4bb9ac8af56d64e",
+    "Hash": "17804247c06285803e5432cffe554a3f102066f3eff7b8387b69359dc1fc4652",
+    "Timestamp": "2025-09-03T23:21:58.874107"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 10,
+    "Usage_KWh": 7.544389202980389,
+    "Status": "Normal",
+    "Prev_Hash": "17804247c06285803e5432cffe554a3f102066f3eff7b8387b69359dc1fc4652",
+    "Hash": "ed99147f4fa91cb8fc5cb671e9dc10832bc0a28416c455e7e4b3745b7fa2b33b",
+    "Timestamp": "2025-09-03T23:21:58.875106"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 11,
+    "Usage_KWh": 6.769188514554432,
+    "Status": "Normal",
+    "Prev_Hash": "ed99147f4fa91cb8fc5cb671e9dc10832bc0a28416c455e7e4b3745b7fa2b33b",
+    "Hash": "4c1e0d46c4c3949de2130ce79ed6454a73b844f1d5352b8c9c2e0a5ab0b69c66",
+    "Timestamp": "2025-09-03T23:21:58.876108"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 12,
+    "Usage_KWh": 2.535418020149887,
+    "Status": "Normal",
+    "Prev_Hash": "4c1e0d46c4c3949de2130ce79ed6454a73b844f1d5352b8c9c2e0a5ab0b69c66",
+    "Hash": "7eb1b1d22c4e075f3065f7a95795b9d91f7b561dab8c983e11d21643a555a949",
+    "Timestamp": "2025-09-03T23:21:58.877107"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 13,
+    "Usage_KWh": 1.5737818470156644,
+    "Status": "Normal",
+    "Prev_Hash": "7eb1b1d22c4e075f3065f7a95795b9d91f7b561dab8c983e11d21643a555a949",
+    "Hash": "e64e9f8429cfcc63f073f04a4c008642c1a7923f12f9d0d7e2c6eaf4ce8f1bc5",
+    "Timestamp": "2025-09-03T23:21:58.878108"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 14,
+    "Usage_KWh": 8.8996369574154,
+    "Status": "Normal",
+    "Prev_Hash": "e64e9f8429cfcc63f073f04a4c008642c1a7923f12f9d0d7e2c6eaf4ce8f1bc5",
+    "Hash": "becc7cf0dc007788a1e7f72f3f061392b2c7db9d9098cf3c3ecd4aee348663ae",
+    "Timestamp": "2025-09-03T23:21:58.878108"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 15,
+    "Usage_KWh": 8.173790417541028,
+    "Status": "Normal",
+    "Prev_Hash": "becc7cf0dc007788a1e7f72f3f061392b2c7db9d9098cf3c3ecd4aee348663ae",
+    "Hash": "2538b5af76b05f49459966285cfb45969f708b22e0439f7b91f50c4764ae4da2",
+    "Timestamp": "2025-09-03T23:21:58.879104"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 16,
+    "Usage_KWh": 3.300311032554756,
+    "Status": "Normal",
+    "Prev_Hash": "2538b5af76b05f49459966285cfb45969f708b22e0439f7b91f50c4764ae4da2",
+    "Hash": "b104eeb0593a84dfebbf664b25c3602ded439a6b41483233ab8462a68fc169bc",
+    "Timestamp": "2025-09-03T23:21:58.880101"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 17,
+    "Usage_KWh": 7.0612168550817405,
+    "Status": "Normal",
+    "Prev_Hash": "b104eeb0593a84dfebbf664b25c3602ded439a6b41483233ab8462a68fc169bc",
+    "Hash": "ab0ffe8f6313ea839c238573a00760793a4f11d97b999e494a43673e56af9e1a",
+    "Timestamp": "2025-09-03T23:21:58.881727"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 18,
+    "Usage_KWh": 5.483065586212887,
+    "Status": "Normal",
+    "Prev_Hash": "ab0ffe8f6313ea839c238573a00760793a4f11d97b999e494a43673e56af9e1a",
+    "Hash": "0679919983e0292812e425a1d4483821a30e6634d8a50ab5dc1aa5fe1010c6e5",
+    "Timestamp": "2025-09-03T23:21:58.884728"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 19,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "0679919983e0292812e425a1d4483821a30e6634d8a50ab5dc1aa5fe1010c6e5",
+    "Hash": "17bbea17a8a6613accc850df2c48e961df7184b877a54999f19756afa8683fd8",
+    "Timestamp": "2025-09-03T23:21:58.887732"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 20,
+    "Usage_KWh": 3.402298167843414,
+    "Status": "Normal",
+    "Prev_Hash": "17bbea17a8a6613accc850df2c48e961df7184b877a54999f19756afa8683fd8",
+    "Hash": "f92e6359c68b6c7a78b3cd43ff5171f7be5950a34141c7bff518d2e0aab3dfc6",
+    "Timestamp": "2025-09-03T23:21:58.890963"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 21,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "f92e6359c68b6c7a78b3cd43ff5171f7be5950a34141c7bff518d2e0aab3dfc6",
+    "Hash": "1802e7f46cd49f0d6aa008221c3df1bce520be7adede163e3f3b591817a862e1",
+    "Timestamp": "2025-09-03T23:21:58.891970"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 22,
+    "Usage_KWh": 5.864991941728911,
+    "Status": "Normal",
+    "Prev_Hash": "1802e7f46cd49f0d6aa008221c3df1bce520be7adede163e3f3b591817a862e1",
+    "Hash": "9a65d334578d6a6d723f093bbbf93e67903379a226437754751006415abc9eff",
+    "Timestamp": "2025-09-03T23:21:58.892967"
+  },
+  {
+    "Meter_ID": "House_8",
+    "Hour": 23,
+    "Usage_KWh": 7.911680555998028,
+    "Status": "Normal",
+    "Prev_Hash": "9a65d334578d6a6d723f093bbbf93e67903379a226437754751006415abc9eff",
+    "Hash": "c7db98ddd309c6932ad169a8cfdb0e8123a88a41c652202cb721afe7fcecf150",
+    "Timestamp": "2025-09-03T23:21:58.893968"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 0,
+    "Usage_KWh": 8.605851048115792,
+    "Status": "Normal",
+    "Prev_Hash": "c7db98ddd309c6932ad169a8cfdb0e8123a88a41c652202cb721afe7fcecf150",
+    "Hash": "fe08cfb3929e9544dff416d22416116e880efbbd4788133f6955942aca2c6fbb",
+    "Timestamp": "2025-09-03T23:21:58.893968"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 1,
+    "Usage_KWh": 3.3067639326799427,
+    "Status": "Normal",
+    "Prev_Hash": "fe08cfb3929e9544dff416d22416116e880efbbd4788133f6955942aca2c6fbb",
+    "Hash": "dec489a3448c5a3e3c942ea35b4941a19f51f3c267ffb38a87ed1129b30a23bd",
+    "Timestamp": "2025-09-03T23:21:58.894968"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 2,
+    "Usage_KWh": 7.390671743326068,
+    "Status": "Normal",
+    "Prev_Hash": "dec489a3448c5a3e3c942ea35b4941a19f51f3c267ffb38a87ed1129b30a23bd",
+    "Hash": "e09a9242b9e67292d22d6aa77941388b79b05607a1f4fa8c09e530e3708ec84d",
+    "Timestamp": "2025-09-03T23:21:58.894968"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 3,
+    "Usage_KWh": 1.976440393809606,
+    "Status": "Normal",
+    "Prev_Hash": "e09a9242b9e67292d22d6aa77941388b79b05607a1f4fa8c09e530e3708ec84d",
+    "Hash": "10271a51fde7e6a84b44ea21a01e14de80fa60629edb9bd73d5f0f6c8a2689fb",
+    "Timestamp": "2025-09-03T23:21:58.895965"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 4,
+    "Usage_KWh": 1.8635619186850707,
+    "Status": "Normal",
+    "Prev_Hash": "10271a51fde7e6a84b44ea21a01e14de80fa60629edb9bd73d5f0f6c8a2689fb",
+    "Hash": "e8fdb1301b8852186a66ddf3c2c48ae0bf17fabe5125b98a792a6d4ba1d986db",
+    "Timestamp": "2025-09-03T23:21:58.896966"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 5,
+    "Usage_KWh": 7.463801539600698,
+    "Status": "Normal",
+    "Prev_Hash": "e8fdb1301b8852186a66ddf3c2c48ae0bf17fabe5125b98a792a6d4ba1d986db",
+    "Hash": "3f0974a44cdf89f260c82289fc43f4096f84121ae73213a6630dd6afab2923b2",
+    "Timestamp": "2025-09-03T23:21:58.897968"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 6,
+    "Usage_KWh": 4.728497812073759,
+    "Status": "Normal",
+    "Prev_Hash": "3f0974a44cdf89f260c82289fc43f4096f84121ae73213a6630dd6afab2923b2",
+    "Hash": "b54d18247ade717b8b2e3b1276c0f63092c665d12dc7c98539fb1f874d196714",
+    "Timestamp": "2025-09-03T23:21:58.901970"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 7,
+    "Usage_KWh": 2.230189981349204,
+    "Status": "Normal",
+    "Prev_Hash": "b54d18247ade717b8b2e3b1276c0f63092c665d12dc7c98539fb1f874d196714",
+    "Hash": "19e3aaefc753a2e6c0db204185c3ced7e5339c2fc06ed17b7522fadfb78bbca7",
+    "Timestamp": "2025-09-03T23:21:58.904971"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 8,
+    "Usage_KWh": 5.5392452226385975,
+    "Status": "Normal",
+    "Prev_Hash": "19e3aaefc753a2e6c0db204185c3ced7e5339c2fc06ed17b7522fadfb78bbca7",
+    "Hash": "fc1afcf9ddfdcc687808c0ef77989a6508dae098e1476596ad6f53e5e6816b5b",
+    "Timestamp": "2025-09-03T23:21:58.905965"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 9,
+    "Usage_KWh": 7.115604077838022,
+    "Status": "Normal",
+    "Prev_Hash": "fc1afcf9ddfdcc687808c0ef77989a6508dae098e1476596ad6f53e5e6816b5b",
+    "Hash": "89b75af3f447a9a7cc447ff2485eeb7a4483175fead7512117e05e8783974526",
+    "Timestamp": "2025-09-03T23:21:58.906971"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 10,
+    "Usage_KWh": 6.368850543921671,
+    "Status": "Normal",
+    "Prev_Hash": "89b75af3f447a9a7cc447ff2485eeb7a4483175fead7512117e05e8783974526",
+    "Hash": "3ddf8c2bda880d66eafc589b740494d9148aa831a5e575babd9cf791368c4d62",
+    "Timestamp": "2025-09-03T23:21:58.908970"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 11,
+    "Usage_KWh": 2.765634248096696,
+    "Status": "Normal",
+    "Prev_Hash": "3ddf8c2bda880d66eafc589b740494d9148aa831a5e575babd9cf791368c4d62",
+    "Hash": "30ba9f38ae3f4f458f9397a73b72cba7605e1b6e78f0d848f6fddef6933fbc41",
+    "Timestamp": "2025-09-03T23:21:58.909971"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 12,
+    "Usage_KWh": 9.871610315892989,
+    "Status": "Normal",
+    "Prev_Hash": "30ba9f38ae3f4f458f9397a73b72cba7605e1b6e78f0d848f6fddef6933fbc41",
+    "Hash": "3b74d28fa2bec3f0b6c64f4992c07d13e58e79f159e364bb37dea3ef57062e50",
+    "Timestamp": "2025-09-03T23:21:58.911344"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 13,
+    "Usage_KWh": 8.515828620247145,
+    "Status": "Normal",
+    "Prev_Hash": "3b74d28fa2bec3f0b6c64f4992c07d13e58e79f159e364bb37dea3ef57062e50",
+    "Hash": "42d3759c85f9187e00b64598b1bad1215b436c64b9f200f2097b8dd501abd6a6",
+    "Timestamp": "2025-09-03T23:21:58.912344"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 14,
+    "Usage_KWh": 8.78915806949508,
+    "Status": "Normal",
+    "Prev_Hash": "42d3759c85f9187e00b64598b1bad1215b436c64b9f200f2097b8dd501abd6a6",
+    "Hash": "78e2f7a33dad7d67316a5034aede865f03a532a974d876c9852f32ed752bb96d",
+    "Timestamp": "2025-09-03T23:21:58.912344"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 15,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "78e2f7a33dad7d67316a5034aede865f03a532a974d876c9852f32ed752bb96d",
+    "Hash": "5fe05aa339c7db3e2e9d5579f1d20751efddd9c29ad928c91d8bf1324a143124",
+    "Timestamp": "2025-09-03T23:21:58.913345"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 16,
+    "Usage_KWh": 1.3758191256179702,
+    "Status": "Normal",
+    "Prev_Hash": "5fe05aa339c7db3e2e9d5579f1d20751efddd9c29ad928c91d8bf1324a143124",
+    "Hash": "cd089b755224710bf4c7e191f5f1abf6d01963fda6124d8721034fd439083897",
+    "Timestamp": "2025-09-03T23:21:58.914342"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 17,
+    "Usage_KWh": 6.932888672872438,
+    "Status": "Normal",
+    "Prev_Hash": "cd089b755224710bf4c7e191f5f1abf6d01963fda6124d8721034fd439083897",
+    "Hash": "621d9797504bba02ef9b7b952b75cbaed5934acd691c76f66a7eaa5bb19fed09",
+    "Timestamp": "2025-09-03T23:21:58.919349"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 18,
+    "Usage_KWh": 2.678375127826304,
+    "Status": "Normal",
+    "Prev_Hash": "621d9797504bba02ef9b7b952b75cbaed5934acd691c76f66a7eaa5bb19fed09",
+    "Hash": "2fa17206cc6c69243ad0e087fff3877945f6f043bc9962ae585d3f3ee826e341",
+    "Timestamp": "2025-09-03T23:21:58.921409"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 19,
+    "Usage_KWh": 6.599413956431516,
+    "Status": "Normal",
+    "Prev_Hash": "2fa17206cc6c69243ad0e087fff3877945f6f043bc9962ae585d3f3ee826e341",
+    "Hash": "7243a4e789152b2568923351e528739da8b09e38d550ea8799a0304674ffb117",
+    "Timestamp": "2025-09-03T23:21:58.923408"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 20,
+    "Usage_KWh": 5.152336577049199,
+    "Status": "Normal",
+    "Prev_Hash": "7243a4e789152b2568923351e528739da8b09e38d550ea8799a0304674ffb117",
+    "Hash": "bc9b891d12d7aeecc7e32a1db62df8b8a10f3deabc5d30a216e4e2d1923db0ac",
+    "Timestamp": "2025-09-03T23:21:58.924405"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 21,
+    "Usage_KWh": 7.371371533422327,
+    "Status": "Normal",
+    "Prev_Hash": "bc9b891d12d7aeecc7e32a1db62df8b8a10f3deabc5d30a216e4e2d1923db0ac",
+    "Hash": "76f5a2113755a54f23cc2b3146ed0abcb0f53b4a8e178241a96d8b2f6b4f7bee",
+    "Timestamp": "2025-09-03T23:21:58.926407"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 22,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "76f5a2113755a54f23cc2b3146ed0abcb0f53b4a8e178241a96d8b2f6b4f7bee",
+    "Hash": "063b08a9494fba65912d6421145927796907d5b4df9ac000476e829f9ff196e6",
+    "Timestamp": "2025-09-03T23:21:58.927407"
+  },
+  {
+    "Meter_ID": "House_9",
+    "Hour": 23,
+    "Usage_KWh": 3.499170368018743,
+    "Status": "Normal",
+    "Prev_Hash": "063b08a9494fba65912d6421145927796907d5b4df9ac000476e829f9ff196e6",
+    "Hash": "e14d17748338f9616c242bb25938c7ab64e964db60b7dc7e94a4c3b3e5502b98",
+    "Timestamp": "2025-09-03T23:21:58.928409"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 0,
+    "Usage_KWh": 5.125532442883054,
+    "Status": "Normal",
+    "Prev_Hash": "e14d17748338f9616c242bb25938c7ab64e964db60b7dc7e94a4c3b3e5502b98",
+    "Hash": "752a110e02884a20f48b605d0fbbbfeb819437895c727cc4cd4274935552f667",
+    "Timestamp": "2025-09-03T23:21:58.929405"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 1,
+    "Usage_KWh": 1.9701398968319117,
+    "Status": "Normal",
+    "Prev_Hash": "752a110e02884a20f48b605d0fbbbfeb819437895c727cc4cd4274935552f667",
+    "Hash": "611e3cff0929d6b2a9252f0cf093da86d4c597853440637d23b19bb7e9cb9f2b",
+    "Timestamp": "2025-09-03T23:21:58.929405"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 2,
+    "Usage_KWh": 9.042109954983856,
+    "Status": "Normal",
+    "Prev_Hash": "611e3cff0929d6b2a9252f0cf093da86d4c597853440637d23b19bb7e9cb9f2b",
+    "Hash": "9e132ac33043c83fae64db6e665dd068cc4cc862e552878f66791c7ab3771119",
+    "Timestamp": "2025-09-03T23:21:58.930403"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 3,
+    "Usage_KWh": 9.863088529348282,
+    "Status": "Normal",
+    "Prev_Hash": "9e132ac33043c83fae64db6e665dd068cc4cc862e552878f66791c7ab3771119",
+    "Hash": "d1a020db5fa40d83210a019c77d22ca642240f22c3aed94e70ba732ce9857081",
+    "Timestamp": "2025-09-03T23:21:58.931402"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 4,
+    "Usage_KWh": 5.18393085292122,
+    "Status": "Normal",
+    "Prev_Hash": "d1a020db5fa40d83210a019c77d22ca642240f22c3aed94e70ba732ce9857081",
+    "Hash": "0b14d4bf9d29f8ef2ddb6c1406bf22a67b5d0ec7ed72d4adde07479c64438415",
+    "Timestamp": "2025-09-03T23:21:58.931402"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 5,
+    "Usage_KWh": 2.2313888885160407,
+    "Status": "Normal",
+    "Prev_Hash": "0b14d4bf9d29f8ef2ddb6c1406bf22a67b5d0ec7ed72d4adde07479c64438415",
+    "Hash": "a12d743928b2b0d9a2dc056815b4a8bb713d4e090eb94425dbcab2e73cf25202",
+    "Timestamp": "2025-09-03T23:21:58.939401"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 6,
+    "Usage_KWh": 5.037510434193633,
+    "Status": "Normal",
+    "Prev_Hash": "a12d743928b2b0d9a2dc056815b4a8bb713d4e090eb94425dbcab2e73cf25202",
+    "Hash": "b252f8174a0ed89e056dc0608d377e0c6cdfa2512bdf86a31dc456262dabebb3",
+    "Timestamp": "2025-09-03T23:21:58.941366"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 7,
+    "Usage_KWh": 3.407818093210633,
+    "Status": "Normal",
+    "Prev_Hash": "b252f8174a0ed89e056dc0608d377e0c6cdfa2512bdf86a31dc456262dabebb3",
+    "Hash": "37280e85bd652798a57c9a0f1bfb462dfbaccff5477d86eb17ab00e151ccfe34",
+    "Timestamp": "2025-09-03T23:21:58.942364"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 8,
+    "Usage_KWh": 1.7227375267930094,
+    "Status": "Normal",
+    "Prev_Hash": "37280e85bd652798a57c9a0f1bfb462dfbaccff5477d86eb17ab00e151ccfe34",
+    "Hash": "2a8de3bd3b39afeaec15ea64d537d8d039dceb43b0f1c95178e6f499564c42eb",
+    "Timestamp": "2025-09-03T23:21:58.943364"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 9,
+    "Usage_KWh": 3.807814286564075,
+    "Status": "Normal",
+    "Prev_Hash": "2a8de3bd3b39afeaec15ea64d537d8d039dceb43b0f1c95178e6f499564c42eb",
+    "Hash": "2d78da43687d02ab5d20f09bf211419a9a3291b590c63509a9acd2775c95ec7c",
+    "Timestamp": "2025-09-03T23:21:58.944361"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 10,
+    "Usage_KWh": 4.499371018724505,
+    "Status": "Normal",
+    "Prev_Hash": "2d78da43687d02ab5d20f09bf211419a9a3291b590c63509a9acd2775c95ec7c",
+    "Hash": "fe8bb4b7503387f6fcc159551abb4466468dacc30c1fdfceedcef39d83976e92",
+    "Timestamp": "2025-09-03T23:21:58.945368"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 11,
+    "Usage_KWh": 1.2667527993054983,
+    "Status": "Normal",
+    "Prev_Hash": "fe8bb4b7503387f6fcc159551abb4466468dacc30c1fdfceedcef39d83976e92",
+    "Hash": "bc2d3697ece823a69feb14e9969d7ce030cf8da75c990c0af1eea4c80d6c94a5",
+    "Timestamp": "2025-09-03T23:21:58.946368"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 12,
+    "Usage_KWh": 2.4432817938889757,
+    "Status": "Normal",
+    "Prev_Hash": "bc2d3697ece823a69feb14e9969d7ce030cf8da75c990c0af1eea4c80d6c94a5",
+    "Hash": "605c8c6d342b26ca7fd01ff2675fcc4848b63c61721c71a87f84fdb581b5f1fe",
+    "Timestamp": "2025-09-03T23:21:58.948363"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 13,
+    "Usage_KWh": 2.594360372074368,
+    "Status": "Normal",
+    "Prev_Hash": "605c8c6d342b26ca7fd01ff2675fcc4848b63c61721c71a87f84fdb581b5f1fe",
+    "Hash": "d4e9b201e549355bcce48d7719d7c5556e266d8d895eb6356bf4423c6a504a4c",
+    "Timestamp": "2025-09-03T23:21:58.949363"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 14,
+    "Usage_KWh": 4.201582730264983,
+    "Status": "Normal",
+    "Prev_Hash": "d4e9b201e549355bcce48d7719d7c5556e266d8d895eb6356bf4423c6a504a4c",
+    "Hash": "fa92a95db4cf846958a6f5166fe06447f53972e884236600d45064ed50f033f0",
+    "Timestamp": "2025-09-03T23:21:58.964797"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 15,
+    "Usage_KWh": 2.7085469215545106,
+    "Status": "Normal",
+    "Prev_Hash": "fa92a95db4cf846958a6f5166fe06447f53972e884236600d45064ed50f033f0",
+    "Hash": "129e1206c014e873e92ab05bcaa8613a57c9aea059aae32430ed48bed87e871e",
+    "Timestamp": "2025-09-03T23:21:58.977797"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 16,
+    "Usage_KWh": 2.844470073592992,
+    "Status": "Normal",
+    "Prev_Hash": "129e1206c014e873e92ab05bcaa8613a57c9aea059aae32430ed48bed87e871e",
+    "Hash": "df00d5232ab10793902bbb2ffc17098255a7d23eaf51d746f5c3202562110d0a",
+    "Timestamp": "2025-09-03T23:21:58.979797"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 17,
+    "Usage_KWh": 5.990100680489619,
+    "Status": "Normal",
+    "Prev_Hash": "df00d5232ab10793902bbb2ffc17098255a7d23eaf51d746f5c3202562110d0a",
+    "Hash": "af58539107b53188d017e3d41cb925606d38c7bf92e33e86ae0712a955a3304d",
+    "Timestamp": "2025-09-03T23:21:58.981791"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 18,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "af58539107b53188d017e3d41cb925606d38c7bf92e33e86ae0712a955a3304d",
+    "Hash": "534fd2a84b4698db2d2ff38cf34a7a7cf1917275c97bb0f197b1db35435578db",
+    "Timestamp": "2025-09-03T23:21:58.987815"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 19,
+    "Usage_KWh": 7.4534509239122,
+    "Status": "Normal",
+    "Prev_Hash": "534fd2a84b4698db2d2ff38cf34a7a7cf1917275c97bb0f197b1db35435578db",
+    "Hash": "1af89b1da66a1342ff49af8042c037b6d2a86f00e4344fee234d3261baf94c1f",
+    "Timestamp": "2025-09-03T23:21:59.030042"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 20,
+    "Usage_KWh": 9.066605708263044,
+    "Status": "Normal",
+    "Prev_Hash": "1af89b1da66a1342ff49af8042c037b6d2a86f00e4344fee234d3261baf94c1f",
+    "Hash": "9364ff19830296f2cbce979ec7146cc9e54b84f0cc6f05b9b91669b9097da37f",
+    "Timestamp": "2025-09-03T23:21:59.046656"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 21,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "9364ff19830296f2cbce979ec7146cc9e54b84f0cc6f05b9b91669b9097da37f",
+    "Hash": "a2464a5f2f9ccbbd441af7d6e48cf0c778215803f6c7f3d30c584afdcb476437",
+    "Timestamp": "2025-09-03T23:21:59.061665"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 22,
+    "Usage_KWh": 6.611498176243337,
+    "Status": "Normal",
+    "Prev_Hash": "a2464a5f2f9ccbbd441af7d6e48cf0c778215803f6c7f3d30c584afdcb476437",
+    "Hash": "6fbfcff7e1fe4fe5f98e8f19e9594f729433565b3891604a2eb3bb3b93e3dfba",
+    "Timestamp": "2025-09-03T23:21:59.065639"
+  },
+  {
+    "Meter_ID": "House_10",
+    "Hour": 23,
+    "Usage_KWh": 5.199946019830858,
+    "Status": "Normal",
+    "Prev_Hash": "6fbfcff7e1fe4fe5f98e8f19e9594f729433565b3891604a2eb3bb3b93e3dfba",
+    "Hash": "a242173343e422befaf858b57f1a929af2b3872d8548290c168e33a1fab23591",
+    "Timestamp": "2025-09-03T23:21:59.078828"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 0,
+    "Usage_KWh": 2.4043963689123533,
+    "Status": "Normal",
+    "Prev_Hash": "a242173343e422befaf858b57f1a929af2b3872d8548290c168e33a1fab23591",
+    "Hash": "f20eaa2cc2d87e481c8d86ebbf7627782c50716d65cccadba2a9e72a2b5dd3e8",
+    "Timestamp": "2025-09-03T23:21:59.094534"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 1,
+    "Usage_KWh": 8.818079729769241,
+    "Status": "Normal",
+    "Prev_Hash": "f20eaa2cc2d87e481c8d86ebbf7627782c50716d65cccadba2a9e72a2b5dd3e8",
+    "Hash": "327d57db280bff6e8eabb5f9973fa1bd7ad925c003032565ec08b4f115da0c89",
+    "Timestamp": "2025-09-03T23:21:59.107680"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 2,
+    "Usage_KWh": 8.912945453071021,
+    "Status": "Normal",
+    "Prev_Hash": "327d57db280bff6e8eabb5f9973fa1bd7ad925c003032565ec08b4f115da0c89",
+    "Hash": "aa855a653037d14428072332453d1c67a7d04af3f92c420f9cb4b93754f2046d",
+    "Timestamp": "2025-09-03T23:21:59.109672"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 3,
+    "Usage_KWh": 2.355646390365696,
+    "Status": "Normal",
+    "Prev_Hash": "aa855a653037d14428072332453d1c67a7d04af3f92c420f9cb4b93754f2046d",
+    "Hash": "dfbf6d9d58b7e798b3597fda91730ea4b34f5326bbae1ca76d01cfc4b176a736",
+    "Timestamp": "2025-09-03T23:21:59.112301"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 4,
+    "Usage_KWh": 2.074115136050956,
+    "Status": "Normal",
+    "Prev_Hash": "dfbf6d9d58b7e798b3597fda91730ea4b34f5326bbae1ca76d01cfc4b176a736",
+    "Hash": "1a5eb128d276e41c56188ce1dd290eae4f4931d806c94dc78c89e32347ff223d",
+    "Timestamp": "2025-09-03T23:21:59.117292"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 5,
+    "Usage_KWh": 8.66049139403582,
+    "Status": "Normal",
+    "Prev_Hash": "1a5eb128d276e41c56188ce1dd290eae4f4931d806c94dc78c89e32347ff223d",
+    "Hash": "8b4db379f84553f8cd53f67c6540307cea8643e95323c0b09ff976eeecc10d9a",
+    "Timestamp": "2025-09-03T23:21:59.118297"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 6,
+    "Usage_KWh": 1.5514291080150775,
+    "Status": "Normal",
+    "Prev_Hash": "8b4db379f84553f8cd53f67c6540307cea8643e95323c0b09ff976eeecc10d9a",
+    "Hash": "284683d68067d596eb1605c4ea82061007310dfa901067f495b67782497a4c1c",
+    "Timestamp": "2025-09-03T23:21:59.127317"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 7,
+    "Usage_KWh": 3.836857513155479,
+    "Status": "Normal",
+    "Prev_Hash": "284683d68067d596eb1605c4ea82061007310dfa901067f495b67782497a4c1c",
+    "Hash": "c0ebad41c864cd01ee08eb8cc57ca7bc4c19ea5837187abbb53244e326189657",
+    "Timestamp": "2025-09-03T23:21:59.129310"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 8,
+    "Usage_KWh": 8.224087933111132,
+    "Status": "Normal",
+    "Prev_Hash": "c0ebad41c864cd01ee08eb8cc57ca7bc4c19ea5837187abbb53244e326189657",
+    "Hash": "6ef5024749f694e5fa8fbed5e3d141842b0102de1e75d8b1bc18617941abd70f",
+    "Timestamp": "2025-09-03T23:21:59.138809"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 9,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "6ef5024749f694e5fa8fbed5e3d141842b0102de1e75d8b1bc18617941abd70f",
+    "Hash": "b15fe630a060653dc3fbd1a41fff8e57cd723132961440850596e71633463c28",
+    "Timestamp": "2025-09-03T23:21:59.139821"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 10,
+    "Usage_KWh": 7.14328583314217,
+    "Status": "Normal",
+    "Prev_Hash": "b15fe630a060653dc3fbd1a41fff8e57cd723132961440850596e71633463c28",
+    "Hash": "d95bcad72b3fea2cc6464b6bf7874ae8426bf0f7d970274fefe4959eb5f36691",
+    "Timestamp": "2025-09-03T23:21:59.141812"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 11,
+    "Usage_KWh": 3.879547469824142,
+    "Status": "Normal",
+    "Prev_Hash": "d95bcad72b3fea2cc6464b6bf7874ae8426bf0f7d970274fefe4959eb5f36691",
+    "Hash": "db6f47fe9ab3daa5e7239c2b843f3bbb8635518d8ea69b7bb047b914f12548ec",
+    "Timestamp": "2025-09-03T23:21:59.144807"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 12,
+    "Usage_KWh": 7.764787015030736,
+    "Status": "Normal",
+    "Prev_Hash": "db6f47fe9ab3daa5e7239c2b843f3bbb8635518d8ea69b7bb047b914f12548ec",
+    "Hash": "5ead93df0d5e20f5d6ebcdae5cd937e1f48c6402ea8d87eea90cca8238a4c328",
+    "Timestamp": "2025-09-03T23:21:59.146804"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 13,
+    "Usage_KWh": 6.352591771752078,
+    "Status": "Normal",
+    "Prev_Hash": "5ead93df0d5e20f5d6ebcdae5cd937e1f48c6402ea8d87eea90cca8238a4c328",
+    "Hash": "e3a920e742d7b74f692bfb520dc22530ad3f7b9d82f8d42851b62075c078d3ec",
+    "Timestamp": "2025-09-03T23:21:59.149805"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 14,
+    "Usage_KWh": 6.273924590918671,
+    "Status": "Normal",
+    "Prev_Hash": "e3a920e742d7b74f692bfb520dc22530ad3f7b9d82f8d42851b62075c078d3ec",
+    "Hash": "9805f9dcc4179681dd5c0aba701d4b189cce6d461e007dbbade63ef0fa0c9757",
+    "Timestamp": "2025-09-03T23:21:59.158184"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 15,
+    "Usage_KWh": 2.5637255659808176,
+    "Status": "Normal",
+    "Prev_Hash": "9805f9dcc4179681dd5c0aba701d4b189cce6d461e007dbbade63ef0fa0c9757",
+    "Hash": "a8bdde19a5a9d83fb953239e3a157f5777f60170e48729fe4cc9dc338cb644f7",
+    "Timestamp": "2025-09-03T23:21:59.160194"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 16,
+    "Usage_KWh": 9.557387265260749,
+    "Status": "Normal",
+    "Prev_Hash": "a8bdde19a5a9d83fb953239e3a157f5777f60170e48729fe4cc9dc338cb644f7",
+    "Hash": "ce4e1954068c0a42d7380d0a56dff283a00f4cc09b2fdf169f14bc1914c8ee63",
+    "Timestamp": "2025-09-03T23:21:59.164185"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 17,
+    "Usage_KWh": 2.2721634611365733,
+    "Status": "Normal",
+    "Prev_Hash": "ce4e1954068c0a42d7380d0a56dff283a00f4cc09b2fdf169f14bc1914c8ee63",
+    "Hash": "ec604a6ce9c5a9f5ca6ebd717d4a34fcdda929c63596969bcfeb99cd4af187e8",
+    "Timestamp": "2025-09-03T23:21:59.173177"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 18,
+    "Usage_KWh": 9.843623068622454,
+    "Status": "Normal",
+    "Prev_Hash": "ec604a6ce9c5a9f5ca6ebd717d4a34fcdda929c63596969bcfeb99cd4af187e8",
+    "Hash": "4a2582373bf1c2d9aa193d0b1b278aa47e020fcd29bdea0565becc55ff3f1c7b",
+    "Timestamp": "2025-09-03T23:21:59.174183"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 19,
+    "Usage_KWh": 3.928893710568208,
+    "Status": "Normal",
+    "Prev_Hash": "4a2582373bf1c2d9aa193d0b1b278aa47e020fcd29bdea0565becc55ff3f1c7b",
+    "Hash": "f470a0fdd3f817ed384c5c0c5246af83b23e673eb16e908299c18209f2868e97",
+    "Timestamp": "2025-09-03T23:21:59.176180"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 20,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "f470a0fdd3f817ed384c5c0c5246af83b23e673eb16e908299c18209f2868e97",
+    "Hash": "3bc66a6717c2838f8a8d5e87312cf4d724310c7eaa0cf3180018070a12f8ae80",
+    "Timestamp": "2025-09-03T23:21:59.186194"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 21,
+    "Usage_KWh": 1.815900855106498,
+    "Status": "Normal",
+    "Prev_Hash": "3bc66a6717c2838f8a8d5e87312cf4d724310c7eaa0cf3180018070a12f8ae80",
+    "Hash": "d4a1e723a17f49b6a446547dee22de66ff478e91c7a3554b457691bb9b587470",
+    "Timestamp": "2025-09-03T23:21:59.189183"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 22,
+    "Usage_KWh": 7.59582178479444,
+    "Status": "Normal",
+    "Prev_Hash": "d4a1e723a17f49b6a446547dee22de66ff478e91c7a3554b457691bb9b587470",
+    "Hash": "a2598639884a63346f309bf410b62bf21af7f43381d071f403c4027f9ac92661",
+    "Timestamp": "2025-09-03T23:21:59.192176"
+  },
+  {
+    "Meter_ID": "House_11",
+    "Hour": 23,
+    "Usage_KWh": 3.998732618568832,
+    "Status": "Normal",
+    "Prev_Hash": "a2598639884a63346f309bf410b62bf21af7f43381d071f403c4027f9ac92661",
+    "Hash": "3400dfdeccf08c18339f40d1108eb2e7d2abdccad6efefbc4f51256bf3e2687f",
+    "Timestamp": "2025-09-03T23:21:59.194177"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 0,
+    "Usage_KWh": 8.116627791045769,
+    "Status": "Normal",
+    "Prev_Hash": "3400dfdeccf08c18339f40d1108eb2e7d2abdccad6efefbc4f51256bf3e2687f",
+    "Hash": "203cfad37440853ae4e29cd6deb95508709a4063ae618d753e991bae608299ff",
+    "Timestamp": "2025-09-03T23:21:59.196179"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 1,
+    "Usage_KWh": 3.4850366562804,
+    "Status": "Normal",
+    "Prev_Hash": "203cfad37440853ae4e29cd6deb95508709a4063ae618d753e991bae608299ff",
+    "Hash": "69574e9dd0471d84b0afd1892359dc1ca4c019ddc1328a78d310e428df1bd0df",
+    "Timestamp": "2025-09-03T23:21:59.203604"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 2,
+    "Usage_KWh": 2.3213893447546834,
+    "Status": "Normal",
+    "Prev_Hash": "69574e9dd0471d84b0afd1892359dc1ca4c019ddc1328a78d310e428df1bd0df",
+    "Hash": "1a1b3cb5aa55302c3995844644fecc621bb79fd2971941d5fd890c53f132f97b",
+    "Timestamp": "2025-09-03T23:21:59.205604"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 3,
+    "Usage_KWh": 8.11136706625821,
+    "Status": "Normal",
+    "Prev_Hash": "1a1b3cb5aa55302c3995844644fecc621bb79fd2971941d5fd890c53f132f97b",
+    "Hash": "0b3d5e5841891b265cb931d406175cdee4d5a6cda5f84518154c03bf1037f7c7",
+    "Timestamp": "2025-09-03T23:21:59.207604"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 4,
+    "Usage_KWh": 9.886729776635947,
+    "Status": "Normal",
+    "Prev_Hash": "0b3d5e5841891b265cb931d406175cdee4d5a6cda5f84518154c03bf1037f7c7",
+    "Hash": "0b96b13fe28e8b720d042b94f6a654dabe9e76b8d1773427a5db893b6551d191",
+    "Timestamp": "2025-09-03T23:21:59.208603"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 5,
+    "Usage_KWh": 5.927605046863603,
+    "Status": "Normal",
+    "Prev_Hash": "0b96b13fe28e8b720d042b94f6a654dabe9e76b8d1773427a5db893b6551d191",
+    "Hash": "43435d1ee5a19cda61a249b2880ce36f8c986785c0ea0b17355f64eb2e84f9be",
+    "Timestamp": "2025-09-03T23:21:59.209602"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 6,
+    "Usage_KWh": 6.851180968312751,
+    "Status": "Normal",
+    "Prev_Hash": "43435d1ee5a19cda61a249b2880ce36f8c986785c0ea0b17355f64eb2e84f9be",
+    "Hash": "22a7c70158c575629efbcf618660e17e68e76006208663c44381d16420ea6c6d",
+    "Timestamp": "2025-09-03T23:21:59.210604"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 7,
+    "Usage_KWh": 2.062115138718739,
+    "Status": "Normal",
+    "Prev_Hash": "22a7c70158c575629efbcf618660e17e68e76006208663c44381d16420ea6c6d",
+    "Hash": "3309c4e9def58c4305e60da6e959e90dc8a1ff3747efbe71dd0107f209b2c2e4",
+    "Timestamp": "2025-09-03T23:21:59.215600"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 8,
+    "Usage_KWh": 2.8925393341370387,
+    "Status": "Normal",
+    "Prev_Hash": "3309c4e9def58c4305e60da6e959e90dc8a1ff3747efbe71dd0107f209b2c2e4",
+    "Hash": "9075c3cd8bca7a408f28731be3f51bf0963dfe06ce82244afe90333a4c0ea745",
+    "Timestamp": "2025-09-03T23:21:59.223611"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 9,
+    "Usage_KWh": 1.8950769325049943,
+    "Status": "Normal",
+    "Prev_Hash": "9075c3cd8bca7a408f28731be3f51bf0963dfe06ce82244afe90333a4c0ea745",
+    "Hash": "d88e0f65e6fe0e951718a9fb92607491339ccfaa9fca6baff0f3fb30f825460a",
+    "Timestamp": "2025-09-03T23:21:59.226600"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 10,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "d88e0f65e6fe0e951718a9fb92607491339ccfaa9fca6baff0f3fb30f825460a",
+    "Hash": "a3eb332d505c6d1ba24fb74a523b50d86868f6eefdfbf6419668b34c4a07ea4e",
+    "Timestamp": "2025-09-03T23:21:59.228600"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 11,
+    "Usage_KWh": 1.6782702847951905,
+    "Status": "Normal",
+    "Prev_Hash": "a3eb332d505c6d1ba24fb74a523b50d86868f6eefdfbf6419668b34c4a07ea4e",
+    "Hash": "932a236748c8943f8cc7a91b801735da6724843ca2b9056be257f84f994b8117",
+    "Timestamp": "2025-09-03T23:21:59.229610"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 12,
+    "Usage_KWh": 6.17981943153633,
+    "Status": "Normal",
+    "Prev_Hash": "932a236748c8943f8cc7a91b801735da6724843ca2b9056be257f84f994b8117",
+    "Hash": "9fb93ea74213b87e8506421aac4581db125ad4d26015c4559a6b35cae654ac62",
+    "Timestamp": "2025-09-03T23:21:59.230602"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 13,
+    "Usage_KWh": 9.974560544659298,
+    "Status": "Normal",
+    "Prev_Hash": "9fb93ea74213b87e8506421aac4581db125ad4d26015c4559a6b35cae654ac62",
+    "Hash": "b71922e00944241186e079770a774b9c82d342c0933fa75babbd40ab2cbd3768",
+    "Timestamp": "2025-09-03T23:21:59.232601"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 14,
+    "Usage_KWh": 6.816932960402939,
+    "Status": "Normal",
+    "Prev_Hash": "b71922e00944241186e079770a774b9c82d342c0933fa75babbd40ab2cbd3768",
+    "Hash": "9792c8f9aa0ab93f351ce89a4221d74292c0d7672ac4b6681df63fc3c363b76f",
+    "Timestamp": "2025-09-03T23:21:59.235597"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 15,
+    "Usage_KWh": 7.767500073654552,
+    "Status": "Normal",
+    "Prev_Hash": "9792c8f9aa0ab93f351ce89a4221d74292c0d7672ac4b6681df63fc3c363b76f",
+    "Hash": "1f4bbcd43a74bf75f2b40653038200a266613dd3ee61ebc27c98039b843a6a90",
+    "Timestamp": "2025-09-03T23:21:59.237601"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 16,
+    "Usage_KWh": 2.053130451997873,
+    "Status": "Normal",
+    "Prev_Hash": "1f4bbcd43a74bf75f2b40653038200a266613dd3ee61ebc27c98039b843a6a90",
+    "Hash": "8c1a80df18c444e6868033270feec1062dc9bc4852fe2d22448940671dc7ab85",
+    "Timestamp": "2025-09-03T23:21:59.239606"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 17,
+    "Usage_KWh": 8.472299872397906,
+    "Status": "Normal",
+    "Prev_Hash": "8c1a80df18c444e6868033270feec1062dc9bc4852fe2d22448940671dc7ab85",
+    "Hash": "0d9ded8f93153a67b3309f8c21b45728adee63064495316c488957f846ef4315",
+    "Timestamp": "2025-09-03T23:21:59.242604"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 18,
+    "Usage_KWh": 4.107748812042198,
+    "Status": "Normal",
+    "Prev_Hash": "0d9ded8f93153a67b3309f8c21b45728adee63064495316c488957f846ef4315",
+    "Hash": "71e72994fc6379bb66ddb4f074f4e3e7d74e029603b8a98a587bcb04acee569e",
+    "Timestamp": "2025-09-03T23:21:59.245596"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 19,
+    "Usage_KWh": 7.196809804048032,
+    "Status": "Normal",
+    "Prev_Hash": "71e72994fc6379bb66ddb4f074f4e3e7d74e029603b8a98a587bcb04acee569e",
+    "Hash": "0d40e4652100c79819ab93c4168030ae98bd2ab08a42da65c622e2663e417604",
+    "Timestamp": "2025-09-03T23:21:59.250598"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 20,
+    "Usage_KWh": 5.1258940334533705,
+    "Status": "Normal",
+    "Prev_Hash": "0d40e4652100c79819ab93c4168030ae98bd2ab08a42da65c622e2663e417604",
+    "Hash": "92de8da1f877115eccc8c95166aebf3398b9d78fdd8ba96813bc849dab046c48",
+    "Timestamp": "2025-09-03T23:21:59.253599"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 21,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "92de8da1f877115eccc8c95166aebf3398b9d78fdd8ba96813bc849dab046c48",
+    "Hash": "1b57e1359a4cd69c418b8ac9aac356735828a3a2523fbe9f76aec73f16e83ceb",
+    "Timestamp": "2025-09-03T23:21:59.253599"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 22,
+    "Usage_KWh": 5.850141571850599,
+    "Status": "Normal",
+    "Prev_Hash": "1b57e1359a4cd69c418b8ac9aac356735828a3a2523fbe9f76aec73f16e83ceb",
+    "Hash": "16fd44dbc2755fab57418ddb111e5c820dad340b68d024c9b568cc0b8f68fb11",
+    "Timestamp": "2025-09-03T23:21:59.255601"
+  },
+  {
+    "Meter_ID": "House_12",
+    "Hour": 23,
+    "Usage_KWh": 2.4984577865676023,
+    "Status": "Normal",
+    "Prev_Hash": "16fd44dbc2755fab57418ddb111e5c820dad340b68d024c9b568cc0b8f68fb11",
+    "Hash": "73aabc1daa3293ce77e718a4daaefec0bf48ccec501cc303b08df3fb8bfda65c",
+    "Timestamp": "2025-09-03T23:21:59.257607"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 0,
+    "Usage_KWh": 1.5373554125706528,
+    "Status": "Normal",
+    "Prev_Hash": "73aabc1daa3293ce77e718a4daaefec0bf48ccec501cc303b08df3fb8bfda65c",
+    "Hash": "849009ca82429dfb59b129325b2f4f9074dff219589f330b8bbc3ca09a493b07",
+    "Timestamp": "2025-09-03T23:21:59.258602"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 1,
+    "Usage_KWh": 2.878639258677131,
+    "Status": "Normal",
+    "Prev_Hash": "849009ca82429dfb59b129325b2f4f9074dff219589f330b8bbc3ca09a493b07",
+    "Hash": "9537595c0f44296828e26866ad271225682feca0db2561add69d85c3efff24fd",
+    "Timestamp": "2025-09-03T23:21:59.261600"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 2,
+    "Usage_KWh": 3.9249945012247167,
+    "Status": "Normal",
+    "Prev_Hash": "9537595c0f44296828e26866ad271225682feca0db2561add69d85c3efff24fd",
+    "Hash": "88654edcf6cdec1d794311d5d0bfc0c76407482572937aadc5b9d16b55dd5ca3",
+    "Timestamp": "2025-09-03T23:21:59.262599"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 3,
+    "Usage_KWh": 9.023210448842974,
+    "Status": "Normal",
+    "Prev_Hash": "88654edcf6cdec1d794311d5d0bfc0c76407482572937aadc5b9d16b55dd5ca3",
+    "Hash": "0584aa0ee833c8fecde67cc4d5551ec054d3ab3119976bc3682d7f98d2bdf245",
+    "Timestamp": "2025-09-03T23:21:59.264604"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 4,
+    "Usage_KWh": 4.463430438057788,
+    "Status": "Normal",
+    "Prev_Hash": "0584aa0ee833c8fecde67cc4d5551ec054d3ab3119976bc3682d7f98d2bdf245",
+    "Hash": "57c350e8a32086b976e9f2a03749dade8a288f3354b2599678239c795bc48ca6",
+    "Timestamp": "2025-09-03T23:21:59.266599"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 5,
+    "Usage_KWh": 2.830989558809536,
+    "Status": "Normal",
+    "Prev_Hash": "57c350e8a32086b976e9f2a03749dade8a288f3354b2599678239c795bc48ca6",
+    "Hash": "5dc2f7281351cfa8748dde53322a295ef1f5fe2b5abb5b4a2a4b7ba8a0c0e2f3",
+    "Timestamp": "2025-09-03T23:21:59.268600"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 6,
+    "Usage_KWh": 1.4249560047450174,
+    "Status": "Normal",
+    "Prev_Hash": "5dc2f7281351cfa8748dde53322a295ef1f5fe2b5abb5b4a2a4b7ba8a0c0e2f3",
+    "Hash": "827e98ec836b8671b9b5b66d77599aff41f11f8e9effab7effd6e212e774b56a",
+    "Timestamp": "2025-09-03T23:21:59.269603"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 7,
+    "Usage_KWh": 5.808337440593465,
+    "Status": "Normal",
+    "Prev_Hash": "827e98ec836b8671b9b5b66d77599aff41f11f8e9effab7effd6e212e774b56a",
+    "Hash": "7309f36452b24d634cae33d4740e597b7866e426456312a433c614bac55e2282",
+    "Timestamp": "2025-09-03T23:21:59.270602"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 8,
+    "Usage_KWh": 5.269793927723415,
+    "Status": "Normal",
+    "Prev_Hash": "7309f36452b24d634cae33d4740e597b7866e426456312a433c614bac55e2282",
+    "Hash": "b7b4aca6e6a514591fe40b917f4ea7209992c989c471a41c555c9f8cecf50853",
+    "Timestamp": "2025-09-03T23:21:59.277601"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 9,
+    "Usage_KWh": 2.53652160303127,
+    "Status": "Normal",
+    "Prev_Hash": "b7b4aca6e6a514591fe40b917f4ea7209992c989c471a41c555c9f8cecf50853",
+    "Hash": "f35b6b904b6002deb8450b2a9be44fd401560f1719145d3f8a1cb3449c601b3d",
+    "Timestamp": "2025-09-03T23:21:59.279604"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 10,
+    "Usage_KWh": 2.369685381407659,
+    "Status": "Normal",
+    "Prev_Hash": "f35b6b904b6002deb8450b2a9be44fd401560f1719145d3f8a1cb3449c601b3d",
+    "Hash": "a2975b3a91de391b2be89d84c194fb7691fcd856ec421f287b75647d5751b18f",
+    "Timestamp": "2025-09-03T23:21:59.279604"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 11,
+    "Usage_KWh": 8.259862986421613,
+    "Status": "Normal",
+    "Prev_Hash": "a2975b3a91de391b2be89d84c194fb7691fcd856ec421f287b75647d5751b18f",
+    "Hash": "3a517f485e6bc7598625ef0d507c227ebade7b61228557e5d9a5a9aa5c0d40b3",
+    "Timestamp": "2025-09-03T23:21:59.280599"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 12,
+    "Usage_KWh": 6.572381542457394,
+    "Status": "Normal",
+    "Prev_Hash": "3a517f485e6bc7598625ef0d507c227ebade7b61228557e5d9a5a9aa5c0d40b3",
+    "Hash": "e75aca723284513121ca20d3c674a9e923606090c36f6a4a7365bc0e6dfd6278",
+    "Timestamp": "2025-09-03T23:21:59.281600"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 13,
+    "Usage_KWh": 7.243107180209394,
+    "Status": "Normal",
+    "Prev_Hash": "e75aca723284513121ca20d3c674a9e923606090c36f6a4a7365bc0e6dfd6278",
+    "Hash": "15a24935ce208df2d0b8e7c65e38befb118455a0666f47b61913ae51c0ad8fd0",
+    "Timestamp": "2025-09-03T23:21:59.282599"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 14,
+    "Usage_KWh": 9.79517272734752,
+    "Status": "Normal",
+    "Prev_Hash": "15a24935ce208df2d0b8e7c65e38befb118455a0666f47b61913ae51c0ad8fd0",
+    "Hash": "c70ae6f2ce2d76e24174d8a0eab7572554f88fc2e09e060c6674f8184375c3f5",
+    "Timestamp": "2025-09-03T23:21:59.287604"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 15,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "c70ae6f2ce2d76e24174d8a0eab7572554f88fc2e09e060c6674f8184375c3f5",
+    "Hash": "f66fbffcc63b05ca402d6f1eeed03dfb55d0ec09d627d9d2bd817c5cb07579fe",
+    "Timestamp": "2025-09-03T23:21:59.289601"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 16,
+    "Usage_KWh": 4.560172596726434,
+    "Status": "Normal",
+    "Prev_Hash": "f66fbffcc63b05ca402d6f1eeed03dfb55d0ec09d627d9d2bd817c5cb07579fe",
+    "Hash": "c61e645735f6b3f0e7788778df16ca796700a7e810c086af4824cf339eff64bc",
+    "Timestamp": "2025-09-03T23:21:59.290604"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 17,
+    "Usage_KWh": 9.917106177939026,
+    "Status": "Normal",
+    "Prev_Hash": "c61e645735f6b3f0e7788778df16ca796700a7e810c086af4824cf339eff64bc",
+    "Hash": "360ceef4d83a51b2a8f59ad2db4902e82181951da168ae886290ba5e7086a3ea",
+    "Timestamp": "2025-09-03T23:21:59.292601"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 18,
+    "Usage_KWh": 7.997177991371563,
+    "Status": "Normal",
+    "Prev_Hash": "360ceef4d83a51b2a8f59ad2db4902e82181951da168ae886290ba5e7086a3ea",
+    "Hash": "bae2989c69b3faa5742825034a8ffb704a2be0886761b7c8975a404fba58a613",
+    "Timestamp": "2025-09-03T23:21:59.294604"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 19,
+    "Usage_KWh": 4.56256427132241,
+    "Status": "Normal",
+    "Prev_Hash": "bae2989c69b3faa5742825034a8ffb704a2be0886761b7c8975a404fba58a613",
+    "Hash": "9feeceef1333293b1d8b0c538982f09a94167339815b69d76dadd56dc4e32609",
+    "Timestamp": "2025-09-03T23:21:59.296605"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 20,
+    "Usage_KWh": 5.830166375374688,
+    "Status": "Normal",
+    "Prev_Hash": "9feeceef1333293b1d8b0c538982f09a94167339815b69d76dadd56dc4e32609",
+    "Hash": "8ed9f09e802065d0bd6f2d2c097e34ce05f012a16077e381c8ff6a77f31c043d",
+    "Timestamp": "2025-09-03T23:21:59.297603"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 21,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "8ed9f09e802065d0bd6f2d2c097e34ce05f012a16077e381c8ff6a77f31c043d",
+    "Hash": "ccbcda432aa9a6c8808c48b1d25d9a6d08d612da0dba858cf5532cd3bd125a9f",
+    "Timestamp": "2025-09-03T23:21:59.299603"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 22,
+    "Usage_KWh": 1.550984713474601,
+    "Status": "Normal",
+    "Prev_Hash": "ccbcda432aa9a6c8808c48b1d25d9a6d08d612da0dba858cf5532cd3bd125a9f",
+    "Hash": "872f221070a7c986333ddd6387928c1d321854c24fbf32e0d0295547879d9258",
+    "Timestamp": "2025-09-03T23:21:59.299603"
+  },
+  {
+    "Meter_ID": "House_13",
+    "Hour": 23,
+    "Usage_KWh": 2.988055413068168,
+    "Status": "Normal",
+    "Prev_Hash": "872f221070a7c986333ddd6387928c1d321854c24fbf32e0d0295547879d9258",
+    "Hash": "78a36da02b3ba4e2e70c7af01dae1de9224fea2783f4e9f4e4b00f1961a17b5f",
+    "Timestamp": "2025-09-03T23:21:59.303609"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 0,
+    "Usage_KWh": 4.944788968780695,
+    "Status": "Normal",
+    "Prev_Hash": "78a36da02b3ba4e2e70c7af01dae1de9224fea2783f4e9f4e4b00f1961a17b5f",
+    "Hash": "4a10456624ff863c6094d2a938c56a4af56789718c3a817bfd274ec3239d9d5c",
+    "Timestamp": "2025-09-03T23:21:59.305596"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 1,
+    "Usage_KWh": 3.8539433177621896,
+    "Status": "Normal",
+    "Prev_Hash": "4a10456624ff863c6094d2a938c56a4af56789718c3a817bfd274ec3239d9d5c",
+    "Hash": "e8cb34343315a69e138f0243c847dda3c4d1752ecc979decf31fca20c7ea5bd2",
+    "Timestamp": "2025-09-03T23:21:59.309604"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 2,
+    "Usage_KWh": 5.440391667990977,
+    "Status": "Normal",
+    "Prev_Hash": "e8cb34343315a69e138f0243c847dda3c4d1752ecc979decf31fca20c7ea5bd2",
+    "Hash": "b415d36a54fb831fee15e7e8d2a66cbf522d5f36cff1bb203b669c3584eb9a98",
+    "Timestamp": "2025-09-03T23:21:59.310601"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 3,
+    "Usage_KWh": 3.7733067141040526,
+    "Status": "Normal",
+    "Prev_Hash": "b415d36a54fb831fee15e7e8d2a66cbf522d5f36cff1bb203b669c3584eb9a98",
+    "Hash": "13ab514fc127dc5817cbf14bf4c92805f959ffd3e5714e0092bb8b978067699d",
+    "Timestamp": "2025-09-03T23:21:59.312604"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 4,
+    "Usage_KWh": 7.559644408856086,
+    "Status": "Normal",
+    "Prev_Hash": "13ab514fc127dc5817cbf14bf4c92805f959ffd3e5714e0092bb8b978067699d",
+    "Hash": "34e61273ec9e0f21b5147ace4390ad70b5ac876be331c7fe7452f90441b37529",
+    "Timestamp": "2025-09-03T23:21:59.313601"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 5,
+    "Usage_KWh": 3.487774103005479,
+    "Status": "Normal",
+    "Prev_Hash": "34e61273ec9e0f21b5147ace4390ad70b5ac876be331c7fe7452f90441b37529",
+    "Hash": "c72151c2d1c3087b271a93a38f1686726ab3597767fadde371865aba99cef095",
+    "Timestamp": "2025-09-03T23:21:59.315598"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 6,
+    "Usage_KWh": 4.660436417401289,
+    "Status": "Normal",
+    "Prev_Hash": "c72151c2d1c3087b271a93a38f1686726ab3597767fadde371865aba99cef095",
+    "Hash": "5ea6084c3c768974651a99e0b429f55e16dc4ace8f385c0b1fcd3057c6784aa6",
+    "Timestamp": "2025-09-03T23:21:59.322599"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 7,
+    "Usage_KWh": 4.39404174402135,
+    "Status": "Normal",
+    "Prev_Hash": "5ea6084c3c768974651a99e0b429f55e16dc4ace8f385c0b1fcd3057c6784aa6",
+    "Hash": "c3fac46341e9685b067f8e39503bdd91152122faee7ca94892abdf8d5a92de38",
+    "Timestamp": "2025-09-03T23:21:59.323596"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 8,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "c3fac46341e9685b067f8e39503bdd91152122faee7ca94892abdf8d5a92de38",
+    "Hash": "2c101387f22a7211223ed47362f93db4920aee6ce5948a2190353c097a83da4c",
+    "Timestamp": "2025-09-03T23:21:59.324598"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 9,
+    "Usage_KWh": 5.822668772386835,
+    "Status": "Normal",
+    "Prev_Hash": "2c101387f22a7211223ed47362f93db4920aee6ce5948a2190353c097a83da4c",
+    "Hash": "fbc7ae8c83fffa4a1867341e80f0876fc552a3dfe89b16b0f64f77f41360f152",
+    "Timestamp": "2025-09-03T23:21:59.325599"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 10,
+    "Usage_KWh": 6.68258153365045,
+    "Status": "Normal",
+    "Prev_Hash": "fbc7ae8c83fffa4a1867341e80f0876fc552a3dfe89b16b0f64f77f41360f152",
+    "Hash": "08f4c5df4cd780802068dc2c7234b73168c407de01cc0066eba44f6634d1cd5c",
+    "Timestamp": "2025-09-03T23:21:59.326597"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 11,
+    "Usage_KWh": 7.1310860965394856,
+    "Status": "Normal",
+    "Prev_Hash": "08f4c5df4cd780802068dc2c7234b73168c407de01cc0066eba44f6634d1cd5c",
+    "Hash": "bf582f3663e7fedd7a8592dc09a802f0c25aff59d45d1e8662600c747a9d7189",
+    "Timestamp": "2025-09-03T23:21:59.327597"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 12,
+    "Usage_KWh": 8.832267698048026,
+    "Status": "Normal",
+    "Prev_Hash": "bf582f3663e7fedd7a8592dc09a802f0c25aff59d45d1e8662600c747a9d7189",
+    "Hash": "e88577b352772362f3257d5e1a5b60709aa09e30945cf470c42bb41cecb7b219",
+    "Timestamp": "2025-09-03T23:21:59.329601"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 13,
+    "Usage_KWh": 9.405538225473244,
+    "Status": "Normal",
+    "Prev_Hash": "e88577b352772362f3257d5e1a5b60709aa09e30945cf470c42bb41cecb7b219",
+    "Hash": "e4e9d22190f7649ea04fdd3e385d95393247be915961ab6fff43bcf52fe8840c",
+    "Timestamp": "2025-09-03T23:21:59.329601"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 14,
+    "Usage_KWh": 5.848164714189048,
+    "Status": "Normal",
+    "Prev_Hash": "e4e9d22190f7649ea04fdd3e385d95393247be915961ab6fff43bcf52fe8840c",
+    "Hash": "33eb89f96e0ef6082a1d402a82c187032ed37a15f612026ebe9dfff747d44316",
+    "Timestamp": "2025-09-03T23:21:59.332351"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 15,
+    "Usage_KWh": 6.774889333689494,
+    "Status": "Normal",
+    "Prev_Hash": "33eb89f96e0ef6082a1d402a82c187032ed37a15f612026ebe9dfff747d44316",
+    "Hash": "e8a9dbb046229370d5eff7eedefb39a9e61d840c129abf55cb52cb21b51f4fe8",
+    "Timestamp": "2025-09-03T23:21:59.333352"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 16,
+    "Usage_KWh": 6.250019626211828,
+    "Status": "Normal",
+    "Prev_Hash": "e8a9dbb046229370d5eff7eedefb39a9e61d840c129abf55cb52cb21b51f4fe8",
+    "Hash": "9d4a5566aff0a4ffb53a8fc1cef90b5dd09599f817ff4a5f098204b312418f8d",
+    "Timestamp": "2025-09-03T23:21:59.339351"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 17,
+    "Usage_KWh": 9.61716518051738,
+    "Status": "Normal",
+    "Prev_Hash": "9d4a5566aff0a4ffb53a8fc1cef90b5dd09599f817ff4a5f098204b312418f8d",
+    "Hash": "a9d9eea3a5bf29258753c0ef2b59335f687467ff8140f97f34390d7929b7ae55",
+    "Timestamp": "2025-09-03T23:21:59.340350"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 18,
+    "Usage_KWh": 3.0377398383968885,
+    "Status": "Normal",
+    "Prev_Hash": "a9d9eea3a5bf29258753c0ef2b59335f687467ff8140f97f34390d7929b7ae55",
+    "Hash": "2da073cdc84e95e4e2bb7434e7d707f66194ac230fda47e8ce649b5f4f748ba2",
+    "Timestamp": "2025-09-03T23:21:59.341704"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 19,
+    "Usage_KWh": 4.287626956305985,
+    "Status": "Normal",
+    "Prev_Hash": "2da073cdc84e95e4e2bb7434e7d707f66194ac230fda47e8ce649b5f4f748ba2",
+    "Hash": "7ca497c8fe256242df29a9666ba43c7719f984757b0dbde3c9e24adf334aeb23",
+    "Timestamp": "2025-09-03T23:21:59.342265"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 20,
+    "Usage_KWh": 5.418524422533795,
+    "Status": "Normal",
+    "Prev_Hash": "7ca497c8fe256242df29a9666ba43c7719f984757b0dbde3c9e24adf334aeb23",
+    "Hash": "1a1c0e0c98f113b65e3f40dc3281939e69a8cffe8802e2592aab05ae07bbb9a7",
+    "Timestamp": "2025-09-03T23:21:59.343244"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 21,
+    "Usage_KWh": 3.801169645081504,
+    "Status": "Normal",
+    "Prev_Hash": "1a1c0e0c98f113b65e3f40dc3281939e69a8cffe8802e2592aab05ae07bbb9a7",
+    "Hash": "d58667d8c18ec4519a7c507c957a48731e4b579ce9b2ee54857a611e3d516359",
+    "Timestamp": "2025-09-03T23:21:59.344247"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 22,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "d58667d8c18ec4519a7c507c957a48731e4b579ce9b2ee54857a611e3d516359",
+    "Hash": "4c80e1632ed2562226b3dc3ac658b4a9c293a2cfea4cb36d9260d3efa057225d",
+    "Timestamp": "2025-09-03T23:21:59.345242"
+  },
+  {
+    "Meter_ID": "House_14",
+    "Hour": 23,
+    "Usage_KWh": 8.116829266528052,
+    "Status": "Normal",
+    "Prev_Hash": "4c80e1632ed2562226b3dc3ac658b4a9c293a2cfea4cb36d9260d3efa057225d",
+    "Hash": "439f94740f6c3218f7da634921b42efb8b4a0e3ece7bed1e52d98d4f26d142dd",
+    "Timestamp": "2025-09-03T23:21:59.346245"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 0,
+    "Usage_KWh": 6.757552920323216,
+    "Status": "Normal",
+    "Prev_Hash": "439f94740f6c3218f7da634921b42efb8b4a0e3ece7bed1e52d98d4f26d142dd",
+    "Hash": "2a198c7220ee3a42b26af9ac3f57171b1286d674e011a53e3040c1d3a3f10033",
+    "Timestamp": "2025-09-03T23:21:59.347245"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 1,
+    "Usage_KWh": 6.125708002144799,
+    "Status": "Normal",
+    "Prev_Hash": "2a198c7220ee3a42b26af9ac3f57171b1286d674e011a53e3040c1d3a3f10033",
+    "Hash": "3d7bbd685dd6a2a63a8aa5d0c32712633553d03faf2479f12ee62b80ea153703",
+    "Timestamp": "2025-09-03T23:21:59.348249"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 2,
+    "Usage_KWh": 8.892909441779944,
+    "Status": "Normal",
+    "Prev_Hash": "3d7bbd685dd6a2a63a8aa5d0c32712633553d03faf2479f12ee62b80ea153703",
+    "Hash": "1b0fe9ab2fb0eb6a794f2798fca5d88de63f27b2122d4db8d6d4258c19625a58",
+    "Timestamp": "2025-09-03T23:21:59.349246"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 3,
+    "Usage_KWh": 4.13569143182205,
+    "Status": "Normal",
+    "Prev_Hash": "1b0fe9ab2fb0eb6a794f2798fca5d88de63f27b2122d4db8d6d4258c19625a58",
+    "Hash": "f28b2b8799dc3dd20b410fe8d77c2f594622e2773b5d7cbdde1dc8ca1f983c9a",
+    "Timestamp": "2025-09-03T23:21:59.355378"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 4,
+    "Usage_KWh": 2.7293620877308595,
+    "Status": "Normal",
+    "Prev_Hash": "f28b2b8799dc3dd20b410fe8d77c2f594622e2773b5d7cbdde1dc8ca1f983c9a",
+    "Hash": "1b48132849d30abd97a3b0d6ac9c94b99f335eff3ebb606596fa364410493db6",
+    "Timestamp": "2025-09-03T23:21:59.356379"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 5,
+    "Usage_KWh": 7.0151537388744885,
+    "Status": "Normal",
+    "Prev_Hash": "1b48132849d30abd97a3b0d6ac9c94b99f335eff3ebb606596fa364410493db6",
+    "Hash": "1179db4dbc9b2922afca9b4ad19c23e99ba3188644f40a0eecf71a17e6cad423",
+    "Timestamp": "2025-09-03T23:21:59.357376"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 6,
+    "Usage_KWh": 6.807350310656946,
+    "Status": "Normal",
+    "Prev_Hash": "1179db4dbc9b2922afca9b4ad19c23e99ba3188644f40a0eecf71a17e6cad423",
+    "Hash": "6ea0197a9f034b4c140cb4ee9e7e10c50926afdceb50ae92be2ecbcabd834250",
+    "Timestamp": "2025-09-03T23:21:59.358378"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 7,
+    "Usage_KWh": 2.7761643413579247,
+    "Status": "Normal",
+    "Prev_Hash": "6ea0197a9f034b4c140cb4ee9e7e10c50926afdceb50ae92be2ecbcabd834250",
+    "Hash": "90c2e9624c884606927812014d773698262d0942f781e62669c97b8a70d17300",
+    "Timestamp": "2025-09-03T23:21:59.359380"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 8,
+    "Usage_KWh": 2.8711193967928086,
+    "Status": "Normal",
+    "Prev_Hash": "90c2e9624c884606927812014d773698262d0942f781e62669c97b8a70d17300",
+    "Hash": "8dadfd4ab9563e0c338964e10ff77b8af6b340870869838149d75dae038f3fd0",
+    "Timestamp": "2025-09-03T23:21:59.360377"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 9,
+    "Usage_KWh": 9.04659434841693,
+    "Status": "Normal",
+    "Prev_Hash": "8dadfd4ab9563e0c338964e10ff77b8af6b340870869838149d75dae038f3fd0",
+    "Hash": "17c8b7ed2ae8b449ee4650e4e3b583442472dee56abf9b55fd7718e5f6ee1287",
+    "Timestamp": "2025-09-03T23:21:59.361932"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 10,
+    "Usage_KWh": 1.8651624619676288,
+    "Status": "Normal",
+    "Prev_Hash": "17c8b7ed2ae8b449ee4650e4e3b583442472dee56abf9b55fd7718e5f6ee1287",
+    "Hash": "7b67c47a91294854a63a7694849ffffcf79a7c1d8e087e61ffb677da4f29d061",
+    "Timestamp": "2025-09-03T23:21:59.362500"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 11,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "7b67c47a91294854a63a7694849ffffcf79a7c1d8e087e61ffb677da4f29d061",
+    "Hash": "aa946c5fba6ed9e17d59cc8ece34700e22bf78570f3453165b378c5e6f48913b",
+    "Timestamp": "2025-09-03T23:21:59.363474"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 12,
+    "Usage_KWh": 7.500583027804969,
+    "Status": "Normal",
+    "Prev_Hash": "aa946c5fba6ed9e17d59cc8ece34700e22bf78570f3453165b378c5e6f48913b",
+    "Hash": "fc6089756b597fa124d13f693119d540688031712a493d40371e77f5f117fedc",
+    "Timestamp": "2025-09-03T23:21:59.364474"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 13,
+    "Usage_KWh": 2.207312327415257,
+    "Status": "Normal",
+    "Prev_Hash": "fc6089756b597fa124d13f693119d540688031712a493d40371e77f5f117fedc",
+    "Hash": "34f49905c2e77b34b3d8c2f0622e502d72c14e76a03066cf48298c07ee61cb2f",
+    "Timestamp": "2025-09-03T23:21:59.364474"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 14,
+    "Usage_KWh": 7.941168786327999,
+    "Status": "Normal",
+    "Prev_Hash": "34f49905c2e77b34b3d8c2f0622e502d72c14e76a03066cf48298c07ee61cb2f",
+    "Hash": "e7b45701c7500334faba7a44846e8942474d46166053b2eff018bd9c38c890a8",
+    "Timestamp": "2025-09-03T23:21:59.365474"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 15,
+    "Usage_KWh": 5.899254028070684,
+    "Status": "Normal",
+    "Prev_Hash": "e7b45701c7500334faba7a44846e8942474d46166053b2eff018bd9c38c890a8",
+    "Hash": "5d389c1f88e782b5c6afaa6902e1ede32ec970c718080a086973371870acb5e0",
+    "Timestamp": "2025-09-03T23:21:59.365474"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 16,
+    "Usage_KWh": 7.404069240377906,
+    "Status": "Normal",
+    "Prev_Hash": "5d389c1f88e782b5c6afaa6902e1ede32ec970c718080a086973371870acb5e0",
+    "Hash": "e18ad36a8e074099030a1955592b12c4b737e04b888e4995d53be90a8307c2c2",
+    "Timestamp": "2025-09-03T23:21:59.366474"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 17,
+    "Usage_KWh": 4.551331116159556,
+    "Status": "Normal",
+    "Prev_Hash": "e18ad36a8e074099030a1955592b12c4b737e04b888e4995d53be90a8307c2c2",
+    "Hash": "10b87afb9543d079b4d15f55495c05d8e00e152def25672a66906ea3d50fe544",
+    "Timestamp": "2025-09-03T23:21:59.371893"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 18,
+    "Usage_KWh": 5.431084429068215,
+    "Status": "Normal",
+    "Prev_Hash": "10b87afb9543d079b4d15f55495c05d8e00e152def25672a66906ea3d50fe544",
+    "Hash": "99342aa12d689d469023cde413e1420eb9e0d3b588991939dc943750b74a593e",
+    "Timestamp": "2025-09-03T23:21:59.371893"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 19,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "99342aa12d689d469023cde413e1420eb9e0d3b588991939dc943750b74a593e",
+    "Hash": "a37b7cf2c42bad2f3d63e4dc86e35534f38aa1dda69701702bbf070c2a4f07b1",
+    "Timestamp": "2025-09-03T23:21:59.372895"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 20,
+    "Usage_KWh": 4.830216405392877,
+    "Status": "Normal",
+    "Prev_Hash": "a37b7cf2c42bad2f3d63e4dc86e35534f38aa1dda69701702bbf070c2a4f07b1",
+    "Hash": "59b7db167580c23afb90fe70d01c3e4ab4ae78822cf51a36429a8a755241f8fa",
+    "Timestamp": "2025-09-03T23:21:59.373895"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 21,
+    "Usage_KWh": 1.2609812323935423,
+    "Status": "Normal",
+    "Prev_Hash": "59b7db167580c23afb90fe70d01c3e4ab4ae78822cf51a36429a8a755241f8fa",
+    "Hash": "0cd5d6b61d64b9bc7a9a82b1bd79bd73e187eed9f85c7740a78b6523e850fba3",
+    "Timestamp": "2025-09-03T23:21:59.378890"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 22,
+    "Usage_KWh": 8.156583286077142,
+    "Status": "Normal",
+    "Prev_Hash": "0cd5d6b61d64b9bc7a9a82b1bd79bd73e187eed9f85c7740a78b6523e850fba3",
+    "Hash": "5c1a5f066ec9fe5f72193f401a61a2053f611437ec952d1992aac153ae1aea73",
+    "Timestamp": "2025-09-03T23:21:59.379888"
+  },
+  {
+    "Meter_ID": "House_15",
+    "Hour": 23,
+    "Usage_KWh": 8.153680528539727,
+    "Status": "Normal",
+    "Prev_Hash": "5c1a5f066ec9fe5f72193f401a61a2053f611437ec952d1992aac153ae1aea73",
+    "Hash": "e3a32a0c89d7a8e4d9f6027b57284ec89f26d982fa3bc5e40e7de4d2da3cfe0e",
+    "Timestamp": "2025-09-03T23:21:59.379888"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 0,
+    "Usage_KWh": 8.131914548534255,
+    "Status": "Normal",
+    "Prev_Hash": "e3a32a0c89d7a8e4d9f6027b57284ec89f26d982fa3bc5e40e7de4d2da3cfe0e",
+    "Hash": "4033538e7fb2e285b656c3e28d75cf5b6fb313799939107f5fede4e71b123815",
+    "Timestamp": "2025-09-03T23:21:59.380894"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 1,
+    "Usage_KWh": 6.203898903913216,
+    "Status": "Normal",
+    "Prev_Hash": "4033538e7fb2e285b656c3e28d75cf5b6fb313799939107f5fede4e71b123815",
+    "Hash": "99643f36c540a67d0c6bf7518e4f2493b3a502c46fe057d73cd520335dba4b5e",
+    "Timestamp": "2025-09-03T23:21:59.381888"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 2,
+    "Usage_KWh": 7.613453405492327,
+    "Status": "Normal",
+    "Prev_Hash": "99643f36c540a67d0c6bf7518e4f2493b3a502c46fe057d73cd520335dba4b5e",
+    "Hash": "620d33e6ce5e0ee2383db45ab886b81e82854568c3a75f571e027577239c0706",
+    "Timestamp": "2025-09-03T23:21:59.381888"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 3,
+    "Usage_KWh": 7.364263356794886,
+    "Status": "Normal",
+    "Prev_Hash": "620d33e6ce5e0ee2383db45ab886b81e82854568c3a75f571e027577239c0706",
+    "Hash": "738bafb4fb56a7712b4616362ce7caa529259a2af148357a84ee0fc21bb35369",
+    "Timestamp": "2025-09-03T23:21:59.381888"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 4,
+    "Usage_KWh": 7.218291224231579,
+    "Status": "Normal",
+    "Prev_Hash": "738bafb4fb56a7712b4616362ce7caa529259a2af148357a84ee0fc21bb35369",
+    "Hash": "451e16d6671026a7b32383e67bbbc85b55e7d954b71d36bb31575fa4c3dc78ad",
+    "Timestamp": "2025-09-03T23:21:59.382889"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 5,
+    "Usage_KWh": 7.22775196358093,
+    "Status": "Normal",
+    "Prev_Hash": "451e16d6671026a7b32383e67bbbc85b55e7d954b71d36bb31575fa4c3dc78ad",
+    "Hash": "fe80078ad682cd77397dba401201b760e3e25791ae2d7942c61539886c4c511a",
+    "Timestamp": "2025-09-03T23:21:59.382889"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 6,
+    "Usage_KWh": 7.803737236150805,
+    "Status": "Normal",
+    "Prev_Hash": "fe80078ad682cd77397dba401201b760e3e25791ae2d7942c61539886c4c511a",
+    "Hash": "af3492ca1bfa8f3ac18949ca5bba51d349821defb70943860deace9927e7978a",
+    "Timestamp": "2025-09-03T23:21:59.383888"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 7,
+    "Usage_KWh": 9.065522255348204,
+    "Status": "Normal",
+    "Prev_Hash": "af3492ca1bfa8f3ac18949ca5bba51d349821defb70943860deace9927e7978a",
+    "Hash": "790f820eda0331feedb958f7b05933112072874a724943e6b59ae5677d084e43",
+    "Timestamp": "2025-09-03T23:21:59.390220"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 8,
+    "Usage_KWh": 3.924388734612176,
+    "Status": "Normal",
+    "Prev_Hash": "790f820eda0331feedb958f7b05933112072874a724943e6b59ae5677d084e43",
+    "Hash": "c1f037ce94af2d8b685f1b21431ceff7d92f4a9f63eb99be44d08e61f0cc3502",
+    "Timestamp": "2025-09-03T23:21:59.390889"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 9,
+    "Usage_KWh": 6.582322551476455,
+    "Status": "Normal",
+    "Prev_Hash": "c1f037ce94af2d8b685f1b21431ceff7d92f4a9f63eb99be44d08e61f0cc3502",
+    "Hash": "94d1b863aa263d9baaa79efcc3f8b14eeb61553a51fadc8bf7f213a9ffe0a755",
+    "Timestamp": "2025-09-03T23:21:59.390889"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 10,
+    "Usage_KWh": 5.675396518992288,
+    "Status": "Normal",
+    "Prev_Hash": "94d1b863aa263d9baaa79efcc3f8b14eeb61553a51fadc8bf7f213a9ffe0a755",
+    "Hash": "38562393492dc520131981b20987fbf6613b01f07b895c7f49c91bae7a9bc092",
+    "Timestamp": "2025-09-03T23:21:59.391889"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 11,
+    "Usage_KWh": 8.50333354666865,
+    "Status": "Normal",
+    "Prev_Hash": "38562393492dc520131981b20987fbf6613b01f07b895c7f49c91bae7a9bc092",
+    "Hash": "dd64da63e4b5d4eb44d470f48a125547c5d960a6a88cce85d65fd1bbc121b698",
+    "Timestamp": "2025-09-03T23:21:59.393891"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 12,
+    "Usage_KWh": 7.808572259584688,
+    "Status": "Normal",
+    "Prev_Hash": "dd64da63e4b5d4eb44d470f48a125547c5d960a6a88cce85d65fd1bbc121b698",
+    "Hash": "00622379ebfecbb624da695a6ab6eb7b19c925df87fa8d27002136bb6d00fe11",
+    "Timestamp": "2025-09-03T23:21:59.393891"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 13,
+    "Usage_KWh": 6.985124660638375,
+    "Status": "Normal",
+    "Prev_Hash": "00622379ebfecbb624da695a6ab6eb7b19c925df87fa8d27002136bb6d00fe11",
+    "Hash": "b490b91613986d4d1b02abfd21446ef7082d84d9f83f27a741e172e66557a331",
+    "Timestamp": "2025-09-03T23:21:59.394889"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 14,
+    "Usage_KWh": 8.12910561016664,
+    "Status": "Normal",
+    "Prev_Hash": "b490b91613986d4d1b02abfd21446ef7082d84d9f83f27a741e172e66557a331",
+    "Hash": "a94a6d59631b7c120111e22de8a4f67b196eeb15b1063073ce3e759da203ad8e",
+    "Timestamp": "2025-09-03T23:21:59.394889"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 15,
+    "Usage_KWh": 1.1652981670805296,
+    "Status": "Normal",
+    "Prev_Hash": "a94a6d59631b7c120111e22de8a4f67b196eeb15b1063073ce3e759da203ad8e",
+    "Hash": "80a392bc0115df36da5e244e84eab5bc06867eabdf30d56ef42250d9f14d4bd3",
+    "Timestamp": "2025-09-03T23:21:59.395886"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 16,
+    "Usage_KWh": 8.309348993773503,
+    "Status": "Normal",
+    "Prev_Hash": "80a392bc0115df36da5e244e84eab5bc06867eabdf30d56ef42250d9f14d4bd3",
+    "Hash": "db45d67f55e92898e84211e76f3a699c369c67bb225e79b8f3b3498864092e90",
+    "Timestamp": "2025-09-03T23:21:59.395886"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 17,
+    "Usage_KWh": 1.2419397901254845,
+    "Status": "Normal",
+    "Prev_Hash": "db45d67f55e92898e84211e76f3a699c369c67bb225e79b8f3b3498864092e90",
+    "Hash": "166bced48f2bf178a06ec512977d3e3d6a49271758d133ff18b6d5c3f2f94453",
+    "Timestamp": "2025-09-03T23:21:59.396889"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 18,
+    "Usage_KWh": 9.00683739973267,
+    "Status": "Normal",
+    "Prev_Hash": "166bced48f2bf178a06ec512977d3e3d6a49271758d133ff18b6d5c3f2f94453",
+    "Hash": "116f22d5fcb512f6648d318954005aa07c1e25c9df85e9cc103df135822b1c77",
+    "Timestamp": "2025-09-03T23:21:59.396889"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 19,
+    "Usage_KWh": 2.7903386220861397,
+    "Status": "Normal",
+    "Prev_Hash": "116f22d5fcb512f6648d318954005aa07c1e25c9df85e9cc103df135822b1c77",
+    "Hash": "5c86e47bc1e1eb816d4d4e7645824c04062bfadbacb97194321ebe6bd68cc804",
+    "Timestamp": "2025-09-03T23:21:59.397890"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 20,
+    "Usage_KWh": 2.5869657359313907,
+    "Status": "Normal",
+    "Prev_Hash": "5c86e47bc1e1eb816d4d4e7645824c04062bfadbacb97194321ebe6bd68cc804",
+    "Hash": "b6ce7c0c008f8d1dc3a2b22d2e774371613450257a6848fe806f7e2e9ed05208",
+    "Timestamp": "2025-09-03T23:21:59.397890"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 21,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "b6ce7c0c008f8d1dc3a2b22d2e774371613450257a6848fe806f7e2e9ed05208",
+    "Hash": "caf398b23a395bc5d7d7eedfafcf256bd020a3eff8509aad1ffa3f0604085da1",
+    "Timestamp": "2025-09-03T23:21:59.398890"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 22,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "caf398b23a395bc5d7d7eedfafcf256bd020a3eff8509aad1ffa3f0604085da1",
+    "Hash": "b6ac258d30c4612a87e73e2ca240024782c9de68448ed55e82667b9030a7bf43",
+    "Timestamp": "2025-09-03T23:21:59.399890"
+  },
+  {
+    "Meter_ID": "House_16",
+    "Hour": 23,
+    "Usage_KWh": 2.7249622581130764,
+    "Status": "Normal",
+    "Prev_Hash": "b6ac258d30c4612a87e73e2ca240024782c9de68448ed55e82667b9030a7bf43",
+    "Hash": "1ca1772ac8ea6dddc1a4d9782faf5510221c02878c4c8ad634ddd5eef3022493",
+    "Timestamp": "2025-09-03T23:21:59.399890"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 0,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "1ca1772ac8ea6dddc1a4d9782faf5510221c02878c4c8ad634ddd5eef3022493",
+    "Hash": "ea01db94efca448729394524f1d95ba8487871dd5bc3ea375c2c6f8adf8aa8a3",
+    "Timestamp": "2025-09-03T23:21:59.405067"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 1,
+    "Usage_KWh": 4.3843557076493,
+    "Status": "Normal",
+    "Prev_Hash": "ea01db94efca448729394524f1d95ba8487871dd5bc3ea375c2c6f8adf8aa8a3",
+    "Hash": "454a0a6491a447070bf8e2d171764a8e93390c1644c0217aeaa0eb04de8b19f3",
+    "Timestamp": "2025-09-03T23:21:59.406070"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 2,
+    "Usage_KWh": 2.1088048935773878,
+    "Status": "Normal",
+    "Prev_Hash": "454a0a6491a447070bf8e2d171764a8e93390c1644c0217aeaa0eb04de8b19f3",
+    "Hash": "f03d981b3915f106b7b043460c0f2f9e7de33c723e78f25f520729af8a9ff220",
+    "Timestamp": "2025-09-03T23:21:59.413425"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 3,
+    "Usage_KWh": 2.900455326516978,
+    "Status": "Normal",
+    "Prev_Hash": "f03d981b3915f106b7b043460c0f2f9e7de33c723e78f25f520729af8a9ff220",
+    "Hash": "ac5e4c49c8c61ef6f14c67cb811053d44b701237ef3c8aef918e83884203f8a8",
+    "Timestamp": "2025-09-03T23:21:59.414427"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 4,
+    "Usage_KWh": 1.638471273300396,
+    "Status": "Normal",
+    "Prev_Hash": "ac5e4c49c8c61ef6f14c67cb811053d44b701237ef3c8aef918e83884203f8a8",
+    "Hash": "b1327a45116a5ec98d25b64e73b77ad06e85425ae2c3faf29aa8d808b968f7f3",
+    "Timestamp": "2025-09-03T23:21:59.414427"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 5,
+    "Usage_KWh": 3.0857428871616177,
+    "Status": "Normal",
+    "Prev_Hash": "b1327a45116a5ec98d25b64e73b77ad06e85425ae2c3faf29aa8d808b968f7f3",
+    "Hash": "95c97712b6450be6929b1d8d95344c3a5d4b0622ecba039ae7c9b1c8390d9216",
+    "Timestamp": "2025-09-03T23:21:59.415427"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 6,
+    "Usage_KWh": 2.260935988868828,
+    "Status": "Normal",
+    "Prev_Hash": "95c97712b6450be6929b1d8d95344c3a5d4b0622ecba039ae7c9b1c8390d9216",
+    "Hash": "801900709ffe22cc40d41b6d4d860b4bb97ecff273610b70bf50af2d72a59352",
+    "Timestamp": "2025-09-03T23:21:59.415427"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 7,
+    "Usage_KWh": 3.43320321024776,
+    "Status": "Normal",
+    "Prev_Hash": "801900709ffe22cc40d41b6d4d860b4bb97ecff273610b70bf50af2d72a59352",
+    "Hash": "e162fe5e41b7aa5ce4d032df919b94841a76aef07ea7a1603377abf5542211bc",
+    "Timestamp": "2025-09-03T23:21:59.415427"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 8,
+    "Usage_KWh": 5.417932872746254,
+    "Status": "Normal",
+    "Prev_Hash": "e162fe5e41b7aa5ce4d032df919b94841a76aef07ea7a1603377abf5542211bc",
+    "Hash": "c56717ac3317b6ba9daa1dc07267a857be9d8981c88f6293087b0338140d2e88",
+    "Timestamp": "2025-09-03T23:21:59.416426"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 9,
+    "Usage_KWh": 3.715489112801402,
+    "Status": "Normal",
+    "Prev_Hash": "c56717ac3317b6ba9daa1dc07267a857be9d8981c88f6293087b0338140d2e88",
+    "Hash": "7030e46b7df69ca122b99e7ac898813f203833b89776cce15401b7e07cf7c594",
+    "Timestamp": "2025-09-03T23:21:59.416426"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 10,
+    "Usage_KWh": 9.819552426087595,
+    "Status": "Normal",
+    "Prev_Hash": "7030e46b7df69ca122b99e7ac898813f203833b89776cce15401b7e07cf7c594",
+    "Hash": "362292135f9f57aa50f42b4faf2d4b170061f6dd15ee96e5e1b19ec1a8f4245a",
+    "Timestamp": "2025-09-03T23:21:59.416426"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 11,
+    "Usage_KWh": 4.761293241890824,
+    "Status": "Normal",
+    "Prev_Hash": "362292135f9f57aa50f42b4faf2d4b170061f6dd15ee96e5e1b19ec1a8f4245a",
+    "Hash": "61388504aca752bc8040550b311dd8496a9dce846cf6240dd7d102b1d8ef759b",
+    "Timestamp": "2025-09-03T23:21:59.422430"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 12,
+    "Usage_KWh": 4.060802666507668,
+    "Status": "Normal",
+    "Prev_Hash": "61388504aca752bc8040550b311dd8496a9dce846cf6240dd7d102b1d8ef759b",
+    "Hash": "e1c2fbdce603332269d64ae0113fa2bb8ac279ac915935be7e0032e1c746ec2c",
+    "Timestamp": "2025-09-03T23:21:59.423432"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 13,
+    "Usage_KWh": 2.84819826138396,
+    "Status": "Normal",
+    "Prev_Hash": "e1c2fbdce603332269d64ae0113fa2bb8ac279ac915935be7e0032e1c746ec2c",
+    "Hash": "ca542cac23d1045bb4055533d0c95b4e603164501087335e0dfc44750fee2f36",
+    "Timestamp": "2025-09-03T23:21:59.423432"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 14,
+    "Usage_KWh": 7.36020723649235,
+    "Status": "Normal",
+    "Prev_Hash": "ca542cac23d1045bb4055533d0c95b4e603164501087335e0dfc44750fee2f36",
+    "Hash": "684ac2e4195c96c4ce7874ba844aad2ccd18f12c75ce9b107633cb484e445c1f",
+    "Timestamp": "2025-09-03T23:21:59.424428"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 15,
+    "Usage_KWh": 3.2207269967408445,
+    "Status": "Normal",
+    "Prev_Hash": "684ac2e4195c96c4ce7874ba844aad2ccd18f12c75ce9b107633cb484e445c1f",
+    "Hash": "29dac04458fd5fc500385789f4e669adc31ec5704b64ae04d9c140ec36b39d5d",
+    "Timestamp": "2025-09-03T23:21:59.425430"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 16,
+    "Usage_KWh": 4.326207043020317,
+    "Status": "Normal",
+    "Prev_Hash": "29dac04458fd5fc500385789f4e669adc31ec5704b64ae04d9c140ec36b39d5d",
+    "Hash": "2bd3df3eb48e75dd00ee138158e7ca2ac2c852caea123ed7876d47335244ffca",
+    "Timestamp": "2025-09-03T23:21:59.425430"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 17,
+    "Usage_KWh": 9.675524840629054,
+    "Status": "Normal",
+    "Prev_Hash": "2bd3df3eb48e75dd00ee138158e7ca2ac2c852caea123ed7876d47335244ffca",
+    "Hash": "2ecf9dc22f6685d49b3be42427d2bfb97be2a56ceb90a70fb398e78563e19578",
+    "Timestamp": "2025-09-03T23:21:59.426431"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 18,
+    "Usage_KWh": 3.638622630741633,
+    "Status": "Normal",
+    "Prev_Hash": "2ecf9dc22f6685d49b3be42427d2bfb97be2a56ceb90a70fb398e78563e19578",
+    "Hash": "0ce0817fe865b2de6a730abcc2d63e9bf7019809ec50b6f0b05e262c07acf0dd",
+    "Timestamp": "2025-09-03T23:21:59.427427"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 19,
+    "Usage_KWh": 4.087713268334223,
+    "Status": "Normal",
+    "Prev_Hash": "0ce0817fe865b2de6a730abcc2d63e9bf7019809ec50b6f0b05e262c07acf0dd",
+    "Hash": "05581debbf9e579a8c6be0875536d0caa1dbf05c5317d59bc97a398eba918a38",
+    "Timestamp": "2025-09-03T23:21:59.427427"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 20,
+    "Usage_KWh": 8.629150726420118,
+    "Status": "Normal",
+    "Prev_Hash": "05581debbf9e579a8c6be0875536d0caa1dbf05c5317d59bc97a398eba918a38",
+    "Hash": "4b047cb3fd4e21bb10d2bb9d580630d7e59b1ee1054f4c4128a3986959e4cc3b",
+    "Timestamp": "2025-09-03T23:21:59.428426"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 21,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "4b047cb3fd4e21bb10d2bb9d580630d7e59b1ee1054f4c4128a3986959e4cc3b",
+    "Hash": "237db28b9962d5295691df50d2aad121a6c05ab8a4d25e016ef28b0337713856",
+    "Timestamp": "2025-09-03T23:21:59.429431"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 22,
+    "Usage_KWh": 2.956002971224423,
+    "Status": "Normal",
+    "Prev_Hash": "237db28b9962d5295691df50d2aad121a6c05ab8a4d25e016ef28b0337713856",
+    "Hash": "ad09f22fe4084fc34efcab8890bef76470ee3305e9314ba37d22e3e81d588604",
+    "Timestamp": "2025-09-03T23:21:59.430432"
+  },
+  {
+    "Meter_ID": "House_17",
+    "Hour": 23,
+    "Usage_KWh": 6.869090799318041,
+    "Status": "Normal",
+    "Prev_Hash": "ad09f22fe4084fc34efcab8890bef76470ee3305e9314ba37d22e3e81d588604",
+    "Hash": "fa73912d92434252d496f3ef10fdc2a7e07e71f166ea26a08d207313f2cee716",
+    "Timestamp": "2025-09-03T23:21:59.431427"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 0,
+    "Usage_KWh": 5.131642811114564,
+    "Status": "Normal",
+    "Prev_Hash": "fa73912d92434252d496f3ef10fdc2a7e07e71f166ea26a08d207313f2cee716",
+    "Hash": "866cf468f3927792891e296ef6a2b09272408d93bb97c3972b29f070c26fc19c",
+    "Timestamp": "2025-09-03T23:21:59.431427"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 1,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "866cf468f3927792891e296ef6a2b09272408d93bb97c3972b29f070c26fc19c",
+    "Hash": "e1e4cacef91b5bb81c116402e5fff42361cca16f5ebd982de899fd01c7db3a6f",
+    "Timestamp": "2025-09-03T23:21:59.431427"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 2,
+    "Usage_KWh": 5.467790094609693,
+    "Status": "Normal",
+    "Prev_Hash": "e1e4cacef91b5bb81c116402e5fff42361cca16f5ebd982de899fd01c7db3a6f",
+    "Hash": "b6eb29bc5f690e164a3151bfc5025fb236fdfe7efc1c131a8ae55beecbf0d3aa",
+    "Timestamp": "2025-09-03T23:21:59.432431"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 3,
+    "Usage_KWh": 5.907027255040166,
+    "Status": "Normal",
+    "Prev_Hash": "b6eb29bc5f690e164a3151bfc5025fb236fdfe7efc1c131a8ae55beecbf0d3aa",
+    "Hash": "91556869014837c7837e6b678a88c63062a314af47a5b0d8788a36beee40036e",
+    "Timestamp": "2025-09-03T23:21:59.432431"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 4,
+    "Usage_KWh": 8.154949678291876,
+    "Status": "Normal",
+    "Prev_Hash": "91556869014837c7837e6b678a88c63062a314af47a5b0d8788a36beee40036e",
+    "Hash": "e75c06913ff062464a64ba39511e3184259edf2d2ee2740c4347fedbf48877d3",
+    "Timestamp": "2025-09-03T23:21:59.433428"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 5,
+    "Usage_KWh": 1.8796745312900136,
+    "Status": "Normal",
+    "Prev_Hash": "e75c06913ff062464a64ba39511e3184259edf2d2ee2740c4347fedbf48877d3",
+    "Hash": "5d917588cf209fd6197b0383f39bba8fd3c18b00d50fa797f82332f7e1964cef",
+    "Timestamp": "2025-09-03T23:21:59.433428"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 6,
+    "Usage_KWh": 1.0402318967525157,
+    "Status": "Normal",
+    "Prev_Hash": "5d917588cf209fd6197b0383f39bba8fd3c18b00d50fa797f82332f7e1964cef",
+    "Hash": "8d3813777a96dcb197d9fddba8f0d39606367726da37f296d927e98a847ce727",
+    "Timestamp": "2025-09-03T23:21:59.436431"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 7,
+    "Usage_KWh": 8.651519759453846,
+    "Status": "Normal",
+    "Prev_Hash": "8d3813777a96dcb197d9fddba8f0d39606367726da37f296d927e98a847ce727",
+    "Hash": "04ff173f4ac1eb8d9d045482b9b51b5c231729802c47d184fd04796e22f04352",
+    "Timestamp": "2025-09-03T23:21:59.437432"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 8,
+    "Usage_KWh": 2.52334279044364,
+    "Status": "Normal",
+    "Prev_Hash": "04ff173f4ac1eb8d9d045482b9b51b5c231729802c47d184fd04796e22f04352",
+    "Hash": "7df7dadfb8f09acbb478833db4adfed245a099c5961ca849d6de09afe65edd50",
+    "Timestamp": "2025-09-03T23:21:59.438425"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 9,
+    "Usage_KWh": 3.235326751395715,
+    "Status": "Normal",
+    "Prev_Hash": "7df7dadfb8f09acbb478833db4adfed245a099c5961ca849d6de09afe65edd50",
+    "Hash": "261bb18a6c840bfe479d34f033463491bdb92659049b59714ccbe7b4f4276437",
+    "Timestamp": "2025-09-03T23:21:59.439426"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 10,
+    "Usage_KWh": 4.461843544937102,
+    "Status": "Normal",
+    "Prev_Hash": "261bb18a6c840bfe479d34f033463491bdb92659049b59714ccbe7b4f4276437",
+    "Hash": "f32ba0a7a6712b0830d8fd80c6780fa22a21793bc725363c0d53afaa4d8371f3",
+    "Timestamp": "2025-09-03T23:21:59.439426"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 11,
+    "Usage_KWh": 5.886029116133835,
+    "Status": "Normal",
+    "Prev_Hash": "f32ba0a7a6712b0830d8fd80c6780fa22a21793bc725363c0d53afaa4d8371f3",
+    "Hash": "f7fda3d9104b32615cc8b1b38aa32326547c5f00b55e40d416a5873150eddf0f",
+    "Timestamp": "2025-09-03T23:21:59.440426"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 12,
+    "Usage_KWh": 7.549938699361272,
+    "Status": "Normal",
+    "Prev_Hash": "f7fda3d9104b32615cc8b1b38aa32326547c5f00b55e40d416a5873150eddf0f",
+    "Hash": "6f2a91ec88257c063de32c75da817da5d2d975bdca2579acdddf30c11e4d259c",
+    "Timestamp": "2025-09-03T23:21:59.441426"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 13,
+    "Usage_KWh": 9.720233920005985,
+    "Status": "Normal",
+    "Prev_Hash": "6f2a91ec88257c063de32c75da817da5d2d975bdca2579acdddf30c11e4d259c",
+    "Hash": "4cfe3a222d63f8cebd94dfc8d240b30508eef6e744577316a71f97a2a8633520",
+    "Timestamp": "2025-09-03T23:21:59.442426"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 14,
+    "Usage_KWh": 8.788755674495992,
+    "Status": "Normal",
+    "Prev_Hash": "4cfe3a222d63f8cebd94dfc8d240b30508eef6e744577316a71f97a2a8633520",
+    "Hash": "2a65062ba07c2a7d3ce0f1636dd561547fdb7dca23d88db1d1b43d3c62e998f7",
+    "Timestamp": "2025-09-03T23:21:59.442426"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 15,
+    "Usage_KWh": 6.724991070075737,
+    "Status": "Normal",
+    "Prev_Hash": "2a65062ba07c2a7d3ce0f1636dd561547fdb7dca23d88db1d1b43d3c62e998f7",
+    "Hash": "87698948ae123d3b189b42eebc2534bcbed1426ce57dceb3b7f7169c46084398",
+    "Timestamp": "2025-09-03T23:21:59.443425"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 16,
+    "Usage_KWh": 2.520103908514226,
+    "Status": "Normal",
+    "Prev_Hash": "87698948ae123d3b189b42eebc2534bcbed1426ce57dceb3b7f7169c46084398",
+    "Hash": "cdc2d5b43f792acb47b4c207c4dc1de545851c483d3f6c6eb585eaba501e8579",
+    "Timestamp": "2025-09-03T23:21:59.444423"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 17,
+    "Usage_KWh": 1.4744410753290476,
+    "Status": "Normal",
+    "Prev_Hash": "cdc2d5b43f792acb47b4c207c4dc1de545851c483d3f6c6eb585eaba501e8579",
+    "Hash": "943e32f6631701a9462425f4c18aea75471ea037d8bf23840ae32947a880fdca",
+    "Timestamp": "2025-09-03T23:21:59.445430"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 18,
+    "Usage_KWh": 8.725527126040069,
+    "Status": "Normal",
+    "Prev_Hash": "943e32f6631701a9462425f4c18aea75471ea037d8bf23840ae32947a880fdca",
+    "Hash": "5fdfb0d8cf8a6116e028a7629a2c466f99181edceffb10d6ed28ddab6716d5a1",
+    "Timestamp": "2025-09-03T23:21:59.446430"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 19,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "5fdfb0d8cf8a6116e028a7629a2c466f99181edceffb10d6ed28ddab6716d5a1",
+    "Hash": "041817f2a243602729d115c0d43c250295f0e3655009d84d30fe9b114a3fe9ae",
+    "Timestamp": "2025-09-03T23:21:59.446430"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 20,
+    "Usage_KWh": 2.22747112862276,
+    "Status": "Normal",
+    "Prev_Hash": "041817f2a243602729d115c0d43c250295f0e3655009d84d30fe9b114a3fe9ae",
+    "Hash": "7e39dbe85355c748b7d7a6e1d5df4bc023bbff9d38d3164d348b81dce31f6e2f",
+    "Timestamp": "2025-09-03T23:21:59.446430"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 21,
+    "Usage_KWh": 4.7689548561655215,
+    "Status": "Normal",
+    "Prev_Hash": "7e39dbe85355c748b7d7a6e1d5df4bc023bbff9d38d3164d348b81dce31f6e2f",
+    "Hash": "489101d620eda51eb1f439dfce6d53c58a12d6db3febd0d756ba0efda3505b30",
+    "Timestamp": "2025-09-03T23:21:59.447424"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 22,
+    "Usage_KWh": 6.41425142561229,
+    "Status": "Normal",
+    "Prev_Hash": "489101d620eda51eb1f439dfce6d53c58a12d6db3febd0d756ba0efda3505b30",
+    "Hash": "2f0d9b9700e6ef3933aaed192b2b5e7a91db4bd12f2aeab2b09e6ce5da4f7460",
+    "Timestamp": "2025-09-03T23:21:59.447424"
+  },
+  {
+    "Meter_ID": "House_18",
+    "Hour": 23,
+    "Usage_KWh": 5.218814153670933,
+    "Status": "Normal",
+    "Prev_Hash": "2f0d9b9700e6ef3933aaed192b2b5e7a91db4bd12f2aeab2b09e6ce5da4f7460",
+    "Hash": "46203feb76ae876d04b70fe42a92fdf049d4cb4cb37c22727ba32395b709114d",
+    "Timestamp": "2025-09-03T23:21:59.447424"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 0,
+    "Usage_KWh": 9.217763338689087,
+    "Status": "Normal",
+    "Prev_Hash": "46203feb76ae876d04b70fe42a92fdf049d4cb4cb37c22727ba32395b709114d",
+    "Hash": "7be1c3594c466619fa3c7713a30836a3355efecf8404837c9208d48873bc5ea6",
+    "Timestamp": "2025-09-03T23:21:59.447424"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 1,
+    "Usage_KWh": 2.828676979929201,
+    "Status": "Normal",
+    "Prev_Hash": "7be1c3594c466619fa3c7713a30836a3355efecf8404837c9208d48873bc5ea6",
+    "Hash": "487696b5ee30150994330bbd5541053cc79bb646a8acbea64c5f36811ebc482c",
+    "Timestamp": "2025-09-03T23:21:59.448422"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 2,
+    "Usage_KWh": 6.637279078900818,
+    "Status": "Normal",
+    "Prev_Hash": "487696b5ee30150994330bbd5541053cc79bb646a8acbea64c5f36811ebc482c",
+    "Hash": "20069c66d4e28fa274ef06d9d38e9e67deeeffdbe2b545eb4bd2cc8c2bb0d987",
+    "Timestamp": "2025-09-03T23:21:59.448422"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 3,
+    "Usage_KWh": 5.30108119570022,
+    "Status": "Normal",
+    "Prev_Hash": "20069c66d4e28fa274ef06d9d38e9e67deeeffdbe2b545eb4bd2cc8c2bb0d987",
+    "Hash": "b03818988c0592582371501c0b4f24a48b364e4f59cdee18e41929d91a807940",
+    "Timestamp": "2025-09-03T23:21:59.448422"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 4,
+    "Usage_KWh": 9.30138136661862,
+    "Status": "Normal",
+    "Prev_Hash": "b03818988c0592582371501c0b4f24a48b364e4f59cdee18e41929d91a807940",
+    "Hash": "8be22ec73cf91f6cfcf3de957c0ad0a3e60a8d19e8a4eb648ec4ad857accca01",
+    "Timestamp": "2025-09-03T23:21:59.448422"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 5,
+    "Usage_KWh": 8.79330263975412,
+    "Status": "Normal",
+    "Prev_Hash": "8be22ec73cf91f6cfcf3de957c0ad0a3e60a8d19e8a4eb648ec4ad857accca01",
+    "Hash": "fd4e3c0c09be6dec09fe99bde47447e900a9f0b387a7dc7ac72937c3ba8d7e59",
+    "Timestamp": "2025-09-03T23:21:59.449423"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 6,
+    "Usage_KWh": 9.855023306388926,
+    "Status": "Normal",
+    "Prev_Hash": "fd4e3c0c09be6dec09fe99bde47447e900a9f0b387a7dc7ac72937c3ba8d7e59",
+    "Hash": "1889715dd67aa24300f3da5e1ab121c510bb8182c5d44e747deead5041651f58",
+    "Timestamp": "2025-09-03T23:21:59.449423"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 7,
+    "Usage_KWh": 7.988095076085599,
+    "Status": "Normal",
+    "Prev_Hash": "1889715dd67aa24300f3da5e1ab121c510bb8182c5d44e747deead5041651f58",
+    "Hash": "10fc9aa47c1bc7ba430af4deee46bfdceabc310f9ce620eac3bd5131f36778d3",
+    "Timestamp": "2025-09-03T23:21:59.450424"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 8,
+    "Usage_KWh": 3.535909698672378,
+    "Status": "Normal",
+    "Prev_Hash": "10fc9aa47c1bc7ba430af4deee46bfdceabc310f9ce620eac3bd5131f36778d3",
+    "Hash": "b8992fd210afe20e4ae2864620290d9a37faf303922a99d485f233c868df28ba",
+    "Timestamp": "2025-09-03T23:21:59.450641"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 9,
+    "Usage_KWh": 9.204775182520196,
+    "Status": "Normal",
+    "Prev_Hash": "b8992fd210afe20e4ae2864620290d9a37faf303922a99d485f233c868df28ba",
+    "Hash": "6c32f5845bb670f8d506a1933d1d3b8c1f26afaeb82f246d08098736a9bb83df",
+    "Timestamp": "2025-09-03T23:21:59.452650"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 10,
+    "Usage_KWh": 8.253898561795165,
+    "Status": "Normal",
+    "Prev_Hash": "6c32f5845bb670f8d506a1933d1d3b8c1f26afaeb82f246d08098736a9bb83df",
+    "Hash": "d46dba15cb502cbbbbf16904fb4c825fccb7fc443d226df297f99cad7e5fb333",
+    "Timestamp": "2025-09-03T23:21:59.453646"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 11,
+    "Usage_KWh": 8.96670007249842,
+    "Status": "Normal",
+    "Prev_Hash": "d46dba15cb502cbbbbf16904fb4c825fccb7fc443d226df297f99cad7e5fb333",
+    "Hash": "5cb310ae7ff19667af5a4e6010679e25ca4dfe2b8e12193622106ed447f9a4a1",
+    "Timestamp": "2025-09-03T23:21:59.455645"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 12,
+    "Usage_KWh": 2.0207187340072896,
+    "Status": "Normal",
+    "Prev_Hash": "5cb310ae7ff19667af5a4e6010679e25ca4dfe2b8e12193622106ed447f9a4a1",
+    "Hash": "7f155dff712c1fb6d453d6128222fbf574955945bae577c97dfd4369c68346a7",
+    "Timestamp": "2025-09-03T23:21:59.455645"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 13,
+    "Usage_KWh": 8.479616619595886,
+    "Status": "Normal",
+    "Prev_Hash": "7f155dff712c1fb6d453d6128222fbf574955945bae577c97dfd4369c68346a7",
+    "Hash": "2d000febf1de5a52fa4c1bc5e2187fd7c50b7ec7f031bacf08dc88e5f74c9202",
+    "Timestamp": "2025-09-03T23:21:59.456645"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 14,
+    "Usage_KWh": 7.469542811173549,
+    "Status": "Normal",
+    "Prev_Hash": "2d000febf1de5a52fa4c1bc5e2187fd7c50b7ec7f031bacf08dc88e5f74c9202",
+    "Hash": "cd92c58a6e2303c3e3b8b7be9b7628f6f519c165469464cf427408234f84d29b",
+    "Timestamp": "2025-09-03T23:21:59.456645"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 15,
+    "Usage_KWh": 1.7426466218168328,
+    "Status": "Normal",
+    "Prev_Hash": "cd92c58a6e2303c3e3b8b7be9b7628f6f519c165469464cf427408234f84d29b",
+    "Hash": "77c34ec1396318c29a56ae20ddc021dee546dc0a94cc0d8e4135ab525f73974c",
+    "Timestamp": "2025-09-03T23:21:59.457646"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 16,
+    "Usage_KWh": 1.603465859172339,
+    "Status": "Normal",
+    "Prev_Hash": "77c34ec1396318c29a56ae20ddc021dee546dc0a94cc0d8e4135ab525f73974c",
+    "Hash": "308d782774e54b3fa65302abb75606fe9cc306bf7ce76a4e9cf8fcd6b9ceaf18",
+    "Timestamp": "2025-09-03T23:21:59.459647"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 17,
+    "Usage_KWh": 3.868803177798849,
+    "Status": "Normal",
+    "Prev_Hash": "308d782774e54b3fa65302abb75606fe9cc306bf7ce76a4e9cf8fcd6b9ceaf18",
+    "Hash": "d524f7d112bc7234050aaed318e80fb506331b0bb922d3a63ed82264bd194cd5",
+    "Timestamp": "2025-09-03T23:21:59.459647"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 18,
+    "Usage_KWh": 6.573233168045491,
+    "Status": "Normal",
+    "Prev_Hash": "d524f7d112bc7234050aaed318e80fb506331b0bb922d3a63ed82264bd194cd5",
+    "Hash": "024da18a50a35a4596106696fb5c7b7625bf7bc9341e70935282d773511f8fde",
+    "Timestamp": "2025-09-03T23:21:59.461748"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 19,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "024da18a50a35a4596106696fb5c7b7625bf7bc9341e70935282d773511f8fde",
+    "Hash": "05509543f3b20f489130192f883da05e23dd0365e18576b7dbcf2ab30cfb1b59",
+    "Timestamp": "2025-09-03T23:21:59.462738"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 20,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "05509543f3b20f489130192f883da05e23dd0365e18576b7dbcf2ab30cfb1b59",
+    "Hash": "083562f76358b090d750beaba9050044d031bedfd7d3976a42a0f01ada12f0c1",
+    "Timestamp": "2025-09-03T23:21:59.462738"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 21,
+    "Usage_KWh": 8.47590011702113,
+    "Status": "Normal",
+    "Prev_Hash": "083562f76358b090d750beaba9050044d031bedfd7d3976a42a0f01ada12f0c1",
+    "Hash": "7bb577e9a0ca4091440a6ac5d888803c1986387febcbb986063f4e0277b498f4",
+    "Timestamp": "2025-09-03T23:21:59.463738"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 22,
+    "Usage_KWh": 8.481273130335179,
+    "Status": "Normal",
+    "Prev_Hash": "7bb577e9a0ca4091440a6ac5d888803c1986387febcbb986063f4e0277b498f4",
+    "Hash": "7c3c27adb4a2d845ff580f9c7fbc279474c27b36a9f997aee3472421efdfb0d9",
+    "Timestamp": "2025-09-03T23:21:59.463738"
+  },
+  {
+    "Meter_ID": "House_19",
+    "Hour": 23,
+    "Usage_KWh": 9.756220221398904,
+    "Status": "Normal",
+    "Prev_Hash": "7c3c27adb4a2d845ff580f9c7fbc279474c27b36a9f997aee3472421efdfb0d9",
+    "Hash": "0659633badacfc26929224f504eff6e799f0efc5bd1d59f6d04d6c4efcbf6e9a",
+    "Timestamp": "2025-09-03T23:21:59.463738"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 0,
+    "Usage_KWh": 5.757991661315386,
+    "Status": "Normal",
+    "Prev_Hash": "0659633badacfc26929224f504eff6e799f0efc5bd1d59f6d04d6c4efcbf6e9a",
+    "Hash": "27f2602209438169a31c435db502194118b7f2b161bf7fba80530de4c203a01c",
+    "Timestamp": "2025-09-03T23:21:59.463738"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 1,
+    "Usage_KWh": 50.0,
+    "Status": "Spike",
+    "Prev_Hash": "27f2602209438169a31c435db502194118b7f2b161bf7fba80530de4c203a01c",
+    "Hash": "ebfc3c31c47041aed2b1588cc4bdd9ad287619567202a050b495b4712c0fb367",
+    "Timestamp": "2025-09-03T23:21:59.464734"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 2,
+    "Usage_KWh": 2.3065024266766287,
+    "Status": "Normal",
+    "Prev_Hash": "ebfc3c31c47041aed2b1588cc4bdd9ad287619567202a050b495b4712c0fb367",
+    "Hash": "a4eacca52ef2e08b4892e61d38f20fd5b2c2233bca7e0efc792bf486041e3945",
+    "Timestamp": "2025-09-03T23:21:59.464734"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 3,
+    "Usage_KWh": 2.462182050986983,
+    "Status": "Normal",
+    "Prev_Hash": "a4eacca52ef2e08b4892e61d38f20fd5b2c2233bca7e0efc792bf486041e3945",
+    "Hash": "b5a534071b4aa7cfcef76aaca6accacdd2b6cf1954300892719cc7c15a2eb341",
+    "Timestamp": "2025-09-03T23:21:59.464734"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 4,
+    "Usage_KWh": 7.012372147869639,
+    "Status": "Normal",
+    "Prev_Hash": "b5a534071b4aa7cfcef76aaca6accacdd2b6cf1954300892719cc7c15a2eb341",
+    "Hash": "b05eb4ee8eccf71fb0608b781fa76d7104ed02a71ae4013ca0d01a07b270c7dd",
+    "Timestamp": "2025-09-03T23:21:59.464734"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 5,
+    "Usage_KWh": 6.654224667006695,
+    "Status": "Normal",
+    "Prev_Hash": "b05eb4ee8eccf71fb0608b781fa76d7104ed02a71ae4013ca0d01a07b270c7dd",
+    "Hash": "71e38f69013e0203a286b8ad4708ee3b64fda9cf185d6a63e6cf4ca36e4cf48e",
+    "Timestamp": "2025-09-03T23:21:59.465734"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 6,
+    "Usage_KWh": 4.819962515395655,
+    "Status": "Normal",
+    "Prev_Hash": "71e38f69013e0203a286b8ad4708ee3b64fda9cf185d6a63e6cf4ca36e4cf48e",
+    "Hash": "76160c37516727641f29b1420378e46f60b121ee12c8c80f6af1db6d041313a8",
+    "Timestamp": "2025-09-03T23:21:59.465734"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 7,
+    "Usage_KWh": 3.758023070809881,
+    "Status": "Normal",
+    "Prev_Hash": "76160c37516727641f29b1420378e46f60b121ee12c8c80f6af1db6d041313a8",
+    "Hash": "7cbc5c61bbd9d1983ca1641da6138a71a36e27e3c999994385c162d302ac417f",
+    "Timestamp": "2025-09-03T23:21:59.466738"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 8,
+    "Usage_KWh": 5.8570475666376485,
+    "Status": "Normal",
+    "Prev_Hash": "7cbc5c61bbd9d1983ca1641da6138a71a36e27e3c999994385c162d302ac417f",
+    "Hash": "17d107db16f5bdc4008d66f6522ba2dacb3804786e3c93a9794f1d3c6ed09dfa",
+    "Timestamp": "2025-09-03T23:21:59.466738"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 9,
+    "Usage_KWh": 7.630822627848564,
+    "Status": "Normal",
+    "Prev_Hash": "17d107db16f5bdc4008d66f6522ba2dacb3804786e3c93a9794f1d3c6ed09dfa",
+    "Hash": "2530e2d5d54ed528f8f8ca05bff37e65f8e6205e3948465b57271bd8143847a1",
+    "Timestamp": "2025-09-03T23:21:59.469742"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 10,
+    "Usage_KWh": 9.010979644099836,
+    "Status": "Normal",
+    "Prev_Hash": "2530e2d5d54ed528f8f8ca05bff37e65f8e6205e3948465b57271bd8143847a1",
+    "Hash": "56a0cf95242168e6014b2f1b504018316bf4fece13222abb0eddf407a48086d7",
+    "Timestamp": "2025-09-03T23:21:59.472092"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 11,
+    "Usage_KWh": 8.643127219010294,
+    "Status": "Normal",
+    "Prev_Hash": "56a0cf95242168e6014b2f1b504018316bf4fece13222abb0eddf407a48086d7",
+    "Hash": "a1dbcd834b38e4fcb9dd024f98235b257657829528c708af798e7c8384d5e979",
+    "Timestamp": "2025-09-03T23:21:59.472092"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 12,
+    "Usage_KWh": 8.07591161924423,
+    "Status": "Normal",
+    "Prev_Hash": "a1dbcd834b38e4fcb9dd024f98235b257657829528c708af798e7c8384d5e979",
+    "Hash": "be304228ecb2e752573455ad203dd37e39f931973f7d98e7acbc43ae9e2d6c3c",
+    "Timestamp": "2025-09-03T23:21:59.473094"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 13,
+    "Usage_KWh": 1.5140532734110177,
+    "Status": "Normal",
+    "Prev_Hash": "be304228ecb2e752573455ad203dd37e39f931973f7d98e7acbc43ae9e2d6c3c",
+    "Hash": "5cb9b1ca3795d38c8abf3cfb9ae5896119d0b6603f3bf0a9e147279039288202",
+    "Timestamp": "2025-09-03T23:21:59.473094"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 14,
+    "Usage_KWh": 5.8809995575004965,
+    "Status": "Normal",
+    "Prev_Hash": "5cb9b1ca3795d38c8abf3cfb9ae5896119d0b6603f3bf0a9e147279039288202",
+    "Hash": "d1dd922c3f979d020158727e19506cdcca08613c31388d84f9f3c5de5ab92a02",
+    "Timestamp": "2025-09-03T23:21:59.474096"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 15,
+    "Usage_KWh": 8.74121190793507,
+    "Status": "Normal",
+    "Prev_Hash": "d1dd922c3f979d020158727e19506cdcca08613c31388d84f9f3c5de5ab92a02",
+    "Hash": "65cd2737623e053d1d93f3a804c2c387de7d7681fada5b6768bdb5c229d5d892",
+    "Timestamp": "2025-09-03T23:21:59.475095"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 16,
+    "Usage_KWh": 7.601020353115906,
+    "Status": "Normal",
+    "Prev_Hash": "65cd2737623e053d1d93f3a804c2c387de7d7681fada5b6768bdb5c229d5d892",
+    "Hash": "f1ee562dcacac8bbdf31c72b19dade408d6a652ea3a38b9a75582b62f936c5a2",
+    "Timestamp": "2025-09-03T23:21:59.476096"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 17,
+    "Usage_KWh": 4.662128784358886,
+    "Status": "Normal",
+    "Prev_Hash": "f1ee562dcacac8bbdf31c72b19dade408d6a652ea3a38b9a75582b62f936c5a2",
+    "Hash": "704418321cc448b13a4d068b653f037269f0ae0e26bf098364be4fd1d9c36a73",
+    "Timestamp": "2025-09-03T23:21:59.478099"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 18,
+    "Usage_KWh": 1.869522388670879,
+    "Status": "Normal",
+    "Prev_Hash": "704418321cc448b13a4d068b653f037269f0ae0e26bf098364be4fd1d9c36a73",
+    "Hash": "d51bef2a632700f4f80410685f5404da70bb5ca1cc2f5d2906e9dd3404722985",
+    "Timestamp": "2025-09-03T23:21:59.479104"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 19,
+    "Usage_KWh": 2.164228412000972,
+    "Status": "Normal",
+    "Prev_Hash": "d51bef2a632700f4f80410685f5404da70bb5ca1cc2f5d2906e9dd3404722985",
+    "Hash": "500cbd03905ad1c53eaf03566356f1753303a98f4be4995363f3d2f1f027e78e",
+    "Timestamp": "2025-09-03T23:21:59.479104"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 20,
+    "Usage_KWh": 6.82994277542094,
+    "Status": "Normal",
+    "Prev_Hash": "500cbd03905ad1c53eaf03566356f1753303a98f4be4995363f3d2f1f027e78e",
+    "Hash": "163006c99d40f02653981a5e73757eab7280239b2100c95eae46c9481dee324c",
+    "Timestamp": "2025-09-03T23:21:59.480408"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 21,
+    "Usage_KWh": 0.0,
+    "Status": "Tampering",
+    "Prev_Hash": "163006c99d40f02653981a5e73757eab7280239b2100c95eae46c9481dee324c",
+    "Hash": "ac86d2cb2f4d6a919b8f04ab7693c67c055076487a1a3c51e5460f75d8f56c2f",
+    "Timestamp": "2025-09-03T23:21:59.480408"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 22,
+    "Usage_KWh": 4.388002257603333,
+    "Status": "Normal",
+    "Prev_Hash": "ac86d2cb2f4d6a919b8f04ab7693c67c055076487a1a3c51e5460f75d8f56c2f",
+    "Hash": "e68c938c8e6a88f18bd39184f06080d79f643cb4ed63aa223b270fa266aa2b61",
+    "Timestamp": "2025-09-03T23:21:59.481408"
+  },
+  {
+    "Meter_ID": "House_20",
+    "Hour": 23,
+    "Usage_KWh": 2.2767188841621424,
+    "Status": "Normal",
+    "Prev_Hash": "e68c938c8e6a88f18bd39184f06080d79f643cb4ed63aa223b270fa266aa2b61",
+    "Hash": "f15930c6377105e35ec9ff8204c24cbc88bfbd03870adbca0c333ea1b29bc6c2",
+    "Timestamp": "2025-09-03T23:21:59.481408"
+  }
+]
